@@ -1,0 +1,8458 @@
+[
+  {
+    "id": "000001",
+    "vietnamese": "và",
+    "english": "and",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000002",
+    "vietnamese": "của",
+    "english": "of",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000003",
+    "vietnamese": "các",
+    "english": "(plural marker)",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000004",
+    "vietnamese": "là",
+    "english": "is/are",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000005",
+    "vietnamese": "có",
+    "english": "have/has",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000006",
+    "vietnamese": "trong",
+    "english": "in/inside",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000007",
+    "vietnamese": "được",
+    "english": "be/get (passive marker)",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000008",
+    "vietnamese": "cho",
+    "english": "for/give",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000009",
+    "vietnamese": "đã",
+    "english": "already (past marker)",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000010",
+    "vietnamese": "với",
+    "english": "with",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000011",
+    "vietnamese": "không",
+    "english": "no/not",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "numbers"
+    ]
+  },
+  {
+    "id": "000012",
+    "vietnamese": "người",
+    "english": "person/people",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000013",
+    "vietnamese": "một",
+    "english": "one",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "numbers"
+    ]
+  },
+  {
+    "id": "000014",
+    "vietnamese": "những",
+    "english": "those (plural)",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000015",
+    "vietnamese": "để",
+    "english": "in order to",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000016",
+    "vietnamese": "khi",
+    "english": "when",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000017",
+    "vietnamese": "này",
+    "english": "this",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000018",
+    "vietnamese": "về",
+    "english": "about/return",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000019",
+    "vietnamese": "ở",
+    "english": "at/in",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000020",
+    "vietnamese": "đến",
+    "english": "arrive/reach/until",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000021",
+    "vietnamese": "tại",
+    "english": "at/in",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000022",
+    "vietnamese": "năm",
+    "english": "year",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "numbers",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000023",
+    "vietnamese": "cũng",
+    "english": "also/too",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000024",
+    "vietnamese": "đó",
+    "english": "that",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000025",
+    "vietnamese": "vào",
+    "english": "enter/in (time)",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000026",
+    "vietnamese": "trên",
+    "english": "on/above/over",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000027",
+    "vietnamese": "từ",
+    "english": "from",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000028",
+    "vietnamese": "ra",
+    "english": "out/outward",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000029",
+    "vietnamese": "nhiều",
+    "english": "many/much",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000030",
+    "vietnamese": "sẽ",
+    "english": "will (future marker)",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000031",
+    "vietnamese": "ông",
+    "english": "grandfather／Mr.／he (respectful)",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000032",
+    "vietnamese": "ngày",
+    "english": "day",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000033",
+    "vietnamese": "theo",
+    "english": "according to／follow",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000034",
+    "vietnamese": "phải",
+    "english": "must/have to/right (correct)",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000035",
+    "vietnamese": "như",
+    "english": "like/as",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000036",
+    "vietnamese": "lại",
+    "english": "again／back",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000037",
+    "vietnamese": "sau",
+    "english": "after/behind",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000038",
+    "vietnamese": "bị",
+    "english": "be (passive marker)",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000039",
+    "vietnamese": "nhưng",
+    "english": "but/however",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000040",
+    "vietnamese": "còn",
+    "english": "still/yet/remain",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000041",
+    "vietnamese": "làm",
+    "english": "do/make/work as",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000042",
+    "vietnamese": "việc",
+    "english": "work/task／matter/affair",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000043",
+    "vietnamese": "anh",
+    "english": "you (male)/older brother/Mr.",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "pronouns",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000044",
+    "vietnamese": "hơn",
+    "english": "more/than／over/more than",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000045",
+    "vietnamese": "tôi",
+    "english": "I/me",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000046",
+    "vietnamese": "biết",
+    "english": "know／know/be acquainted with／know how to",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000047",
+    "vietnamese": "đang",
+    "english": "be (progressive marker)",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000048",
+    "vietnamese": "nhà",
+    "english": "house／home/family／specialist/expert",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000049",
+    "vietnamese": "thì",
+    "english": "then/so／as for/then",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000050",
+    "vietnamese": "đi",
+    "english": "go／leave／imperative particle",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000051",
+    "vietnamese": "chỉ",
+    "english": "only/just/point",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000052",
+    "vietnamese": "trước",
+    "english": "before/in front of",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000053",
+    "vietnamese": "Việt Nam",
+    "english": "Vietnam",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000054",
+    "vietnamese": "mà",
+    "english": "but/rather／relative marker／sentence-final particle",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000055",
+    "vietnamese": "nước",
+    "english": "country/water",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000056",
+    "vietnamese": "mới",
+    "english": "new/just",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000057",
+    "vietnamese": "sự",
+    "english": "nominalizing marker",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000058",
+    "vietnamese": "rất",
+    "english": "very",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000059",
+    "vietnamese": "hai",
+    "english": "two",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "numbers"
+    ]
+  },
+  {
+    "id": "000060",
+    "vietnamese": "nhất",
+    "english": "most／first",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "numbers"
+    ]
+  },
+  {
+    "id": "000061",
+    "vietnamese": "mình",
+    "english": "self/oneself",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000062",
+    "vietnamese": "đây",
+    "english": "here／this",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000063",
+    "vietnamese": "có thể",
+    "english": "can/be able to／may/be possible",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000064",
+    "vietnamese": "lên",
+    "english": "go up／rise/increase",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000065",
+    "vietnamese": "đồng",
+    "english": "dong (currency)／copper／field／same/common (combining form)",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000066",
+    "vietnamese": "cùng",
+    "english": "together／with",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000067",
+    "vietnamese": "nói",
+    "english": "say/speak／talk about",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000068",
+    "vietnamese": "vẫn",
+    "english": "still／still/nevertheless",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000069",
+    "vietnamese": "tới",
+    "english": "arrive/reach／to",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000070",
+    "vietnamese": "bộ",
+    "english": "ministry/department／set",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000071",
+    "vietnamese": "nên",
+    "english": "should／therefore/so",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000072",
+    "vietnamese": "qua",
+    "english": "pass through/over",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000073",
+    "vietnamese": "do",
+    "english": "because of/due to/by",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000074",
+    "vietnamese": "con",
+    "english": "child／classifier for animals",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000075",
+    "vietnamese": "tháng",
+    "english": "month",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000076",
+    "vietnamese": "cao",
+    "english": "high/tall／high; expensive",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000077",
+    "vietnamese": "vì",
+    "english": "because／because of; due to",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000078",
+    "vietnamese": "cả",
+    "english": "all; whole／even",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000079",
+    "vietnamese": "rằng",
+    "english": "that (conjunction)",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000080",
+    "vietnamese": "cô",
+    "english": "female teacher／paternal aunt／Miss; maam",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000081",
+    "vietnamese": "tỉnh",
+    "english": "province／awake; alert／regain consciousness",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000082",
+    "vietnamese": "khác",
+    "english": "different／other; another",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000083",
+    "vietnamese": "chưa",
+    "english": "not yet",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000084",
+    "vietnamese": "bạn",
+    "english": "you／friend",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "pronouns",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000085",
+    "vietnamese": "thấy",
+    "english": "see; notice／feel; find; think",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000086",
+    "vietnamese": "số",
+    "english": "number; numeral／quantity; number",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "numbers",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000087",
+    "vietnamese": "xe",
+    "english": "vehicle",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000088",
+    "vietnamese": "họ",
+    "english": "they／surname; family name",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "pronouns",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000089",
+    "vietnamese": "Mỹ",
+    "english": "America; United States",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000090",
+    "vietnamese": "lần",
+    "english": "time; occasion",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000091",
+    "vietnamese": "lớn",
+    "english": "big; large／grow up; grow／older; elder",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000092",
+    "vietnamese": "tổ chức",
+    "english": "organize; hold／organization; institution",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000093",
+    "vietnamese": "hàng",
+    "english": "goods; products／row; queue",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000094",
+    "vietnamese": "dân",
+    "english": "people; citizens",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000095",
+    "vietnamese": "đường",
+    "english": "road; street／sugar",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000096",
+    "vietnamese": "đưa",
+    "english": "bring; take／hand; deliver",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000097",
+    "vietnamese": "bà",
+    "english": "grandmother／lady; madam／she (respectful)",
+    "tags": [
+      "top_1000_words",
+      "top_100_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000098",
+    "vietnamese": "hay",
+    "english": "or/often/good",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000099",
+    "vietnamese": "cuộc",
+    "english": "classifier for events; contest",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000100",
+    "vietnamese": "nếu",
+    "english": "if",
+    "tags": [
+      "top_1000_words",
+      "top_100_words"
+    ]
+  },
+  {
+    "id": "000101",
+    "vietnamese": "cần",
+    "english": "need／must; need to",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000102",
+    "vietnamese": "triệu",
+    "english": "million",
+    "tags": [
+      "top_1000_words",
+      "numbers"
+    ]
+  },
+  {
+    "id": "000103",
+    "vietnamese": "bên",
+    "english": "side; beside／side; party",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000104",
+    "vietnamese": "thực hiện",
+    "english": "implement; carry out",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000105",
+    "vietnamese": "tăng",
+    "english": "increase; rise／Buddhist monk",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000106",
+    "vietnamese": "gần",
+    "english": "near; close／nearly; almost",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000107",
+    "vietnamese": "Hà Nội",
+    "english": "Hanoi",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000108",
+    "vietnamese": "đầu",
+    "english": "head／beginning; start",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000109",
+    "vietnamese": "đầu tư",
+    "english": "invest／investment",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000110",
+    "vietnamese": "ảnh",
+    "english": "photo; image",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000111",
+    "vietnamese": "tiền",
+    "english": "money; cash",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000112",
+    "vietnamese": "bằng",
+    "english": "by means of; with／equal; same／degree; diploma",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000113",
+    "vietnamese": "công ty",
+    "english": "company",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000114",
+    "vietnamese": "điều",
+    "english": "matter; thing／clause; provision",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000115",
+    "vietnamese": "giá",
+    "english": "price; cost／shelf; rack",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000116",
+    "vietnamese": "vụ",
+    "english": "case; incident／crop season",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000117",
+    "vietnamese": "tuổi",
+    "english": "age; years old",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000118",
+    "vietnamese": "nay",
+    "english": "nowadays; now／this; current",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000119",
+    "vietnamese": "gì",
+    "english": "what／anything; something",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000120",
+    "vietnamese": "phát triển",
+    "english": "develop; grow／development; growth",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000121",
+    "vietnamese": "rồi",
+    "english": "already; completed／then; afterwards",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000122",
+    "vietnamese": "khiến",
+    "english": "cause; make",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000123",
+    "vietnamese": "thứ",
+    "english": "ordinal number／weekday (in weekday names)／thing; item／type; kind",
+    "tags": [
+      "top_1000_words",
+      "numbers",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000124",
+    "vietnamese": "thời gian",
+    "english": "time; period",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000125",
+    "vietnamese": "xây dựng",
+    "english": "build; construct／build; establish",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000126",
+    "vietnamese": "hoạt động",
+    "english": "activity／operate; function",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000127",
+    "vietnamese": "khoảng",
+    "english": "approximately; about／range; interval",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000128",
+    "vietnamese": "huyện",
+    "english": "district; county",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000129",
+    "vietnamese": "em",
+    "english": "younger sibling/you (to younger)",
+    "tags": [
+      "top_1000_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000130",
+    "vietnamese": "nào",
+    "english": "which／any; whichever",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000131",
+    "vietnamese": "sử dụng",
+    "english": "use; utilize",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000132",
+    "vietnamese": "đều",
+    "english": "all; every",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000133",
+    "vietnamese": "cách",
+    "english": "way; method／distance; away from",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000134",
+    "vietnamese": "chiếc",
+    "english": "classifier for vehicles; items",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000135",
+    "vietnamese": "thêm",
+    "english": "more; another／add",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000136",
+    "vietnamese": "vừa",
+    "english": "just; recently／fit; suitable／both; simultaneously",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000137",
+    "vietnamese": "chính",
+    "english": "main; principal／exactly; precisely",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000138",
+    "vietnamese": "tuy nhiên",
+    "english": "however; nevertheless",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000139",
+    "vietnamese": "trường",
+    "english": "school",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000140",
+    "vietnamese": "nhận",
+    "english": "receive; get／accept; agree to／recognize; realize",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000141",
+    "vietnamese": "giữa",
+    "english": "between; among",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000142",
+    "vietnamese": "nhau",
+    "english": "each other; one another",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000143",
+    "vietnamese": "chị",
+    "english": "older sister/you (to older female)",
+    "tags": [
+      "top_1000_words",
+      "pronouns",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000144",
+    "vietnamese": "gây",
+    "english": "cause; bring about",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000145",
+    "vietnamese": "một số",
+    "english": "some; a number of",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000146",
+    "vietnamese": "gia đình",
+    "english": "family; household",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000147",
+    "vietnamese": "lúc",
+    "english": "moment; time／when",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000148",
+    "vietnamese": "đối với",
+    "english": "toward; regarding",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000149",
+    "vietnamese": "thông tin",
+    "english": "information",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000150",
+    "vietnamese": "khu vực",
+    "english": "area; region",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000151",
+    "vietnamese": "Trung Quốc",
+    "english": "China",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000152",
+    "vietnamese": "cái",
+    "english": "classifier for things／thing/object",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000153",
+    "vietnamese": "mức",
+    "english": "level/degree",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000154",
+    "vietnamese": "ngay",
+    "english": "immediately／right/exactly",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000155",
+    "vietnamese": "từng",
+    "english": "once/ever／each/every",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000156",
+    "vietnamese": "xã",
+    "english": "commune",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000157",
+    "vietnamese": "điểm",
+    "english": "point/location／score",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000158",
+    "vietnamese": "bán",
+    "english": "sell",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000159",
+    "vietnamese": "mang",
+    "english": "carry/bring／wear",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000160",
+    "vietnamese": "doanh nghiệp",
+    "english": "enterprise",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000161",
+    "vietnamese": "giảm",
+    "english": "decrease/reduce／discount",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000162",
+    "vietnamese": "công an",
+    "english": "police/public security",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000163",
+    "vietnamese": "dự án",
+    "english": "project",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000164",
+    "vietnamese": "kinh tế",
+    "english": "economy／economics",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000165",
+    "vietnamese": "nơi",
+    "english": "place/location",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000166",
+    "vietnamese": "tiếp tục",
+    "english": "continue",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000167",
+    "vietnamese": "thị trường",
+    "english": "market",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000168",
+    "vietnamese": "tin",
+    "english": "news／believe/trust",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000169",
+    "vietnamese": "tốt",
+    "english": "good",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000170",
+    "vietnamese": "tỷ",
+    "english": "billion",
+    "tags": [
+      "top_1000_words",
+      "numbers"
+    ]
+  },
+  {
+    "id": "000171",
+    "vietnamese": "mỗi",
+    "english": "each/every",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000172",
+    "vietnamese": "hoặc",
+    "english": "or",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000173",
+    "vietnamese": "muốn",
+    "english": "want/wish",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000174",
+    "vietnamese": "cấp",
+    "english": "level／supply/provide／issue/grant",
+    "tags": [
+      "top_1000_words",
+      "common_verbs",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000175",
+    "vietnamese": "ngoài",
+    "english": "outside/besides",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000176",
+    "vietnamese": "chúng tôi",
+    "english": "we (exclusive)",
+    "tags": [
+      "top_1000_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000177",
+    "vietnamese": "đạt",
+    "english": "achieve/reach",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000178",
+    "vietnamese": "thi",
+    "english": "exam/test／take an exam",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000179",
+    "vietnamese": "cơ quan",
+    "english": "agency/institution／organ",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000180",
+    "vietnamese": "mua",
+    "english": "buy",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000181",
+    "vietnamese": "mọi",
+    "english": "every/all",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000182",
+    "vietnamese": "giúp",
+    "english": "help",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000183",
+    "vietnamese": "sáng",
+    "english": "morning／bright",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000184",
+    "vietnamese": "quá",
+    "english": "too/excessively／very/so (degree complement)",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000185",
+    "vietnamese": "giờ",
+    "english": "hour/time",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000186",
+    "vietnamese": "nga",
+    "english": "Russia",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000187",
+    "vietnamese": "thế giới",
+    "english": "world",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000188",
+    "vietnamese": "trẻ",
+    "english": "young／child/children",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000189",
+    "vietnamese": "nó",
+    "english": "it/he/she",
+    "tags": [
+      "top_1000_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000190",
+    "vietnamese": "đặc biệt",
+    "english": "special／especially",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000191",
+    "vietnamese": "thành phố",
+    "english": "city",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000192",
+    "vietnamese": "dùng",
+    "english": "use",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000193",
+    "vietnamese": "loại",
+    "english": "type/kind／classifier for kinds／eliminate",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000194",
+    "vietnamese": "đất",
+    "english": "land／soil/earth",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000195",
+    "vietnamese": "quản lý",
+    "english": "manage／management",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000196",
+    "vietnamese": "vấn đề",
+    "english": "problem/issue",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000197",
+    "vietnamese": "tham gia",
+    "english": "participate/join",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000198",
+    "vietnamese": "tạo",
+    "english": "create",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000199",
+    "vietnamese": "công tác",
+    "english": "work/task／business trip",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000200",
+    "vietnamese": "đội",
+    "english": "team／wear",
+    "tags": [
+      "top_1000_words",
+      "common_verbs",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000201",
+    "vietnamese": "phía",
+    "english": "side/direction／from the side of",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000202",
+    "vietnamese": "sản xuất",
+    "english": "produce/manufacture",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000203",
+    "vietnamese": "quy định",
+    "english": "regulation/rule／prescribe/stipulate",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000204",
+    "vietnamese": "ấy",
+    "english": "that",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000205",
+    "vietnamese": "vốn",
+    "english": "capital／originally",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000206",
+    "vietnamese": "ai",
+    "english": "who／anyone/everyone",
+    "tags": [
+      "top_1000_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000207",
+    "vietnamese": "chương trình",
+    "english": "course/curriculum／show/program／plan/agenda",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000208",
+    "vietnamese": "ăn",
+    "english": "eat",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000209",
+    "vietnamese": "ta",
+    "english": "we/one／I (literary)",
+    "tags": [
+      "top_1000_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000210",
+    "vietnamese": "ngành",
+    "english": "sector/industry／academic major",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000211",
+    "vietnamese": "mẹ",
+    "english": "mother",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000212",
+    "vietnamese": "phòng",
+    "english": "room／department／prevent",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000213",
+    "vietnamese": "chính phủ",
+    "english": "government",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000214",
+    "vietnamese": "so",
+    "english": "compare",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000215",
+    "vietnamese": "xảy",
+    "english": "happen/occur",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000216",
+    "vietnamese": "gặp",
+    "english": "meet／encounter",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000217",
+    "vietnamese": "xuống",
+    "english": "go down/descend／decrease/fall",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000218",
+    "vietnamese": "quốc gia",
+    "english": "country/nation",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000219",
+    "vietnamese": "tên",
+    "english": "name／be named/called",
+    "tags": [
+      "top_1000_words",
+      "common_verbs",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000220",
+    "vietnamese": "tìm",
+    "english": "find/discover／search",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000221",
+    "vietnamese": "xã hội",
+    "english": "society",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000222",
+    "vietnamese": "thuộc",
+    "english": "belong to／memorize/know by heart",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000223",
+    "vietnamese": "lấy",
+    "english": "take/get／marry",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000224",
+    "vietnamese": "nữa",
+    "english": "more/another／still/anymore",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000225",
+    "vietnamese": "học",
+    "english": "study/learn",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000226",
+    "vietnamese": "quyết định",
+    "english": "decide／decision",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000227",
+    "vietnamese": "biển",
+    "english": "sea／sign/signboard",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000228",
+    "vietnamese": "ba",
+    "english": "three／father",
+    "tags": [
+      "top_1000_words",
+      "numbers",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000229",
+    "vietnamese": "nguồn",
+    "english": "source／resource",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000230",
+    "vietnamese": "lực lượng",
+    "english": "force／workforce",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000231",
+    "vietnamese": "bởi",
+    "english": "because／by",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000232",
+    "vietnamese": "tay",
+    "english": "hand／player",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000233",
+    "vietnamese": "diễn",
+    "english": "perform／take place",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000234",
+    "vietnamese": "tàu",
+    "english": "ship／train",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000235",
+    "vietnamese": "thế",
+    "english": "such／situation",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000236",
+    "vietnamese": "lời",
+    "english": "words／promise／profit／lyrics",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000237",
+    "vietnamese": "phần",
+    "english": "part／share",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000238",
+    "vietnamese": "nhóm",
+    "english": "group／group together",
+    "tags": [
+      "top_1000_words",
+      "common_verbs",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000239",
+    "vietnamese": "hiện",
+    "english": "appear／currently",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000240",
+    "vietnamese": "sống",
+    "english": "live／alive",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000241",
+    "vietnamese": "nhìn",
+    "english": "look／consider",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000242",
+    "vietnamese": "nhỏ",
+    "english": "small／young",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000243",
+    "vietnamese": "đúng",
+    "english": "correct／exactly",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000244",
+    "vietnamese": "vàng",
+    "english": "gold／yellow",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000245",
+    "vietnamese": "báo",
+    "english": "newspaper／inform／leopard",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000246",
+    "vietnamese": "nhằm",
+    "english": "in order to",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000247",
+    "vietnamese": "luôn",
+    "english": "always／right away",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000248",
+    "vietnamese": "đầu tiên",
+    "english": "first／firstly",
+    "tags": [
+      "top_1000_words",
+      "numbers"
+    ]
+  },
+  {
+    "id": "000249",
+    "vietnamese": "ban",
+    "english": "committee／issue",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000250",
+    "vietnamese": "nhà nước",
+    "english": "state／state-owned",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000251",
+    "vietnamese": "hệ thống",
+    "english": "system",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000252",
+    "vietnamese": "chiều",
+    "english": "afternoon／direction／dimension／pamper",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000253",
+    "vietnamese": "rõ",
+    "english": "clear／clearly",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000254",
+    "vietnamese": "tính",
+    "english": "character／calculate／intend",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000255",
+    "vietnamese": "dưới",
+    "english": "under/below",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000256",
+    "vietnamese": "địa phương",
+    "english": "locality／local",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000257",
+    "vietnamese": "sang",
+    "english": "go across／elegant",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000258",
+    "vietnamese": "sản phẩm",
+    "english": "product",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000259",
+    "vietnamese": "thành",
+    "english": "become／city",
+    "tags": [
+      "top_1000_words",
+      "common_verbs",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000260",
+    "vietnamese": "mất",
+    "english": "lose／die／take time",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000261",
+    "vietnamese": "không thể",
+    "english": "cannot",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000262",
+    "vietnamese": "hỗ trợ",
+    "english": "support／assist",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000263",
+    "vietnamese": "quận",
+    "english": "district",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000264",
+    "vietnamese": "chủ tịch",
+    "english": "chairperson",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000265",
+    "vietnamese": "liên quan",
+    "english": "relate to／relevant",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000266",
+    "vietnamese": "đơn vị",
+    "english": "unit／organization",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000267",
+    "vietnamese": "chết",
+    "english": "die",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000268",
+    "vietnamese": "khu",
+    "english": "area",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000269",
+    "vietnamese": "xem",
+    "english": "watch／consider",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000270",
+    "vietnamese": "tiếng",
+    "english": "sound／language／reputation／hour",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000271",
+    "vietnamese": "yêu cầu",
+    "english": "requirement／request",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000272",
+    "vietnamese": "lãnh đạo",
+    "english": "leader／lead",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000273",
+    "vietnamese": "chủ",
+    "english": "owner／main",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000274",
+    "vietnamese": "bé",
+    "english": "child／small",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000275",
+    "vietnamese": "chuyện",
+    "english": "matter／story",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000276",
+    "vietnamese": "xử lý",
+    "english": "handle／process",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000277",
+    "vietnamese": "cơ sở",
+    "english": "basis／facility",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000278",
+    "vietnamese": "phim",
+    "english": "film／photographic film",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000279",
+    "vietnamese": "giữ",
+    "english": "hold／maintain／detain",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000280",
+    "vietnamese": "phát hiện",
+    "english": "discover",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000281",
+    "vietnamese": "giải",
+    "english": "solve",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000282",
+    "vietnamese": "khả năng",
+    "english": "ability",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000283",
+    "vietnamese": "trận",
+    "english": "match",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000284",
+    "vietnamese": "quốc tế",
+    "english": "international",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000285",
+    "vietnamese": "khá",
+    "english": "quite",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000286",
+    "vietnamese": "khó khăn",
+    "english": "difficult",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000287",
+    "vietnamese": "vùng",
+    "english": "region",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000288",
+    "vietnamese": "đối tượng",
+    "english": "object",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000289",
+    "vietnamese": "kinh doanh",
+    "english": "business",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000290",
+    "vietnamese": "ngân hàng",
+    "english": "bank",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000291",
+    "vietnamese": "kiểm tra",
+    "english": "check",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000292",
+    "vietnamese": "hết",
+    "english": "all",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000293",
+    "vietnamese": "làm việc",
+    "english": "work",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000294",
+    "vietnamese": "kết quả",
+    "english": "result",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000295",
+    "vietnamese": "điều tra",
+    "english": "investigate",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000296",
+    "vietnamese": "bỏ",
+    "english": "abandon/drop",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000297",
+    "vietnamese": "nam",
+    "english": "male/south",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000298",
+    "vietnamese": "kể",
+    "english": "tell/include",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000299",
+    "vietnamese": "dù",
+    "english": "although/umbrella",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000300",
+    "vietnamese": "trung tâm",
+    "english": "center",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000301",
+    "vietnamese": "đẹp",
+    "english": "beautiful",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000302",
+    "vietnamese": "đủ",
+    "english": "enough",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000303",
+    "vietnamese": "bệnh",
+    "english": "disease/illness",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000304",
+    "vietnamese": "sở",
+    "english": "office/bureau",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000305",
+    "vietnamese": "cuối",
+    "english": "end/last",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000306",
+    "vietnamese": "chạy",
+    "english": "run",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000307",
+    "vietnamese": "mùa",
+    "english": "season",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000308",
+    "vietnamese": "chia sẻ",
+    "english": "share",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000309",
+    "vietnamese": "đứng",
+    "english": "stand",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000310",
+    "vietnamese": "bóng",
+    "english": "ball/shadow",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000311",
+    "vietnamese": "hỏi",
+    "english": "ask",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000312",
+    "vietnamese": "tất cả",
+    "english": "all/everything",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000313",
+    "vietnamese": "giao thông",
+    "english": "traffic/transportation",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000314",
+    "vietnamese": "khỏi",
+    "english": "recover/escape",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000315",
+    "vietnamese": "mạnh",
+    "english": "strong",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000316",
+    "vietnamese": "bảo vệ",
+    "english": "protect",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000317",
+    "vietnamese": "lao động",
+    "english": "labor/worker",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000318",
+    "vietnamese": "tổng thống",
+    "english": "president",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000319",
+    "vietnamese": "cán bộ",
+    "english": "cadre/official",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000320",
+    "vietnamese": "vòng",
+    "english": "round/circle",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000321",
+    "vietnamese": "hiện nay",
+    "english": "now/currently",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000322",
+    "vietnamese": "thu",
+    "english": "collect/revenue",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000323",
+    "vietnamese": "đặt",
+    "english": "place/set",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000324",
+    "vietnamese": "chống",
+    "english": "resist/against",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000325",
+    "vietnamese": "kế hoạch",
+    "english": "plan",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000326",
+    "vietnamese": "nghe",
+    "english": "hear/listen",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000327",
+    "vietnamese": "quan trọng",
+    "english": "important",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000328",
+    "vietnamese": "buổi",
+    "english": "session/period",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000329",
+    "vietnamese": "bài",
+    "english": "article/lesson",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000330",
+    "vietnamese": "nằm",
+    "english": "lie/located",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000331",
+    "vietnamese": "mặt",
+    "english": "face/surface",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000332",
+    "vietnamese": "đồng thời",
+    "english": "simultaneously",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000333",
+    "vietnamese": "chồng",
+    "english": "husband",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000334",
+    "vietnamese": "tuần",
+    "english": "week",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000335",
+    "vietnamese": "chúng ta",
+    "english": "we (inclusive)",
+    "tags": [
+      "top_1000_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000336",
+    "vietnamese": "khách",
+    "english": "guest/customer",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000337",
+    "vietnamese": "an toàn",
+    "english": "safe/safety",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000338",
+    "vietnamese": "triển khai",
+    "english": "deploy/implement",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000339",
+    "vietnamese": "gái",
+    "english": "girl",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000340",
+    "vietnamese": "trở thành",
+    "english": "become",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000341",
+    "vietnamese": "sao",
+    "english": "why/how",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000342",
+    "vietnamese": "nghiên cứu",
+    "english": "research/study",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000343",
+    "vietnamese": "đêm",
+    "english": "night",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000344",
+    "vietnamese": "gọi",
+    "english": "call",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000345",
+    "vietnamese": "đoàn",
+    "english": "group/delegation",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000346",
+    "vietnamese": "thường",
+    "english": "often/usually",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000347",
+    "vietnamese": "khó",
+    "english": "difficult",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000348",
+    "vietnamese": "chung",
+    "english": "common/shared",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000349",
+    "vietnamese": "cây",
+    "english": "tree/plant",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000350",
+    "vietnamese": "vợ",
+    "english": "wife",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000351",
+    "vietnamese": "bước",
+    "english": "step",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000352",
+    "vietnamese": "châu",
+    "english": "continent",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000353",
+    "vietnamese": "nữ",
+    "english": "female",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000354",
+    "vietnamese": "đánh giá",
+    "english": "evaluate/assess",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000355",
+    "vietnamese": "chất lượng",
+    "english": "quality",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000356",
+    "vietnamese": "tình trạng",
+    "english": "situation/condition",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000357",
+    "vietnamese": "dẫn",
+    "english": "lead/guide",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000358",
+    "vietnamese": "hiệu quả",
+    "english": "effective/effect",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000359",
+    "vietnamese": "tự",
+    "english": "self/oneself",
+    "tags": [
+      "top_1000_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000360",
+    "vietnamese": "khẳng định",
+    "english": "affirm/confirm",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000361",
+    "vietnamese": "ít",
+    "english": "few/little",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000362",
+    "vietnamese": "mạng",
+    "english": "network",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000363",
+    "vietnamese": "cạnh",
+    "english": "side/edge",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000364",
+    "vietnamese": "du lịch",
+    "english": "travel/tourism",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000365",
+    "vietnamese": "học sinh",
+    "english": "student",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000366",
+    "vietnamese": "bệnh viện",
+    "english": "hospital",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000367",
+    "vietnamese": "đảng",
+    "english": "party",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000368",
+    "vietnamese": "môi trường",
+    "english": "environment",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000369",
+    "vietnamese": "phút",
+    "english": "minute",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000370",
+    "vietnamese": "riêng",
+    "english": "private/separate",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000371",
+    "vietnamese": "nhân dân",
+    "english": "people",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000372",
+    "vietnamese": "đáng",
+    "english": "worthy/deserve",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000373",
+    "vietnamese": "vậy",
+    "english": "so/thus",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000374",
+    "vietnamese": "bắt",
+    "english": "catch/arrest",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000375",
+    "vietnamese": "công nghệ",
+    "english": "technology",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000376",
+    "vietnamese": "trường hợp",
+    "english": "case/situation",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000377",
+    "vietnamese": "thật",
+    "english": "real/true",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000378",
+    "vietnamese": "thời điểm",
+    "english": "point in time",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000379",
+    "vietnamese": "cảnh sát",
+    "english": "police",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000380",
+    "vietnamese": "kỳ",
+    "english": "period/term",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000381",
+    "vietnamese": "ảnh hưởng",
+    "english": "influence/effect",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000382",
+    "vietnamese": "gửi",
+    "english": "send",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000383",
+    "vietnamese": "chân",
+    "english": "foot",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000384",
+    "vietnamese": "Nguyễn",
+    "english": "Nguyen (surname)",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000385",
+    "vietnamese": "đông",
+    "english": "east/many",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000386",
+    "vietnamese": "hình ảnh",
+    "english": "image/picture",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000387",
+    "vietnamese": "phụ nữ",
+    "english": "woman",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000388",
+    "vietnamese": "độ",
+    "english": "degree/level",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000389",
+    "vietnamese": "đảm bảo",
+    "english": "ensure/guarantee",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000390",
+    "vietnamese": "cháu",
+    "english": "grandchild/nephew/niece",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000391",
+    "vietnamese": "quyền",
+    "english": "right/power",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000392",
+    "vietnamese": "nâng",
+    "english": "lift/raise",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000393",
+    "vietnamese": "quan hệ",
+    "english": "relationship",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000394",
+    "vietnamese": "dài",
+    "english": "long",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000395",
+    "vietnamese": "thủ tướng",
+    "english": "prime minister",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000396",
+    "vietnamese": "dành",
+    "english": "reserve/set aside",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000397",
+    "vietnamese": "điều kiện",
+    "english": "condition",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000398",
+    "vietnamese": "đánh",
+    "english": "hit/strike",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000399",
+    "vietnamese": "dịch vụ",
+    "english": "service",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000400",
+    "vietnamese": "chính sách",
+    "english": "policy",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000401",
+    "vietnamese": "như vậy",
+    "english": "like that/thus",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000402",
+    "vietnamese": "chơi",
+    "english": "play",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000403",
+    "vietnamese": "nghĩ",
+    "english": "think",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000404",
+    "vietnamese": "câu",
+    "english": "sentence",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000405",
+    "vietnamese": "đâu",
+    "english": "where",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000406",
+    "vietnamese": "đôi",
+    "english": "pair/couple",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000407",
+    "vietnamese": "Việt",
+    "english": "Viet (Vietnam)",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000408",
+    "vietnamese": "báo cáo",
+    "english": "report",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000409",
+    "vietnamese": "tài chính",
+    "english": "finance",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000410",
+    "vietnamese": "văn hóa",
+    "english": "culture",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000411",
+    "vietnamese": "điện",
+    "english": "electricity",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000412",
+    "vietnamese": "xuất hiện",
+    "english": "appear",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000413",
+    "vietnamese": "lễ",
+    "english": "ceremony",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000414",
+    "vietnamese": "máy bay",
+    "english": "airplane",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000415",
+    "vietnamese": "hướng",
+    "english": "direction",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000416",
+    "vietnamese": "thay đổi",
+    "english": "change",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000417",
+    "vietnamese": "phường",
+    "english": "ward",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000418",
+    "vietnamese": "xin",
+    "english": "please/request",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000419",
+    "vietnamese": "y tế",
+    "english": "medical/health",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000420",
+    "vietnamese": "trách nhiệm",
+    "english": "responsibility",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000421",
+    "vietnamese": "giải quyết",
+    "english": "solve/resolve",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000422",
+    "vietnamese": "yêu",
+    "english": "love",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000423",
+    "vietnamese": "phối hợp",
+    "english": "coordinate/cooperate",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000424",
+    "vietnamese": "án",
+    "english": "case/lawsuit",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000425",
+    "vietnamese": "miền",
+    "english": "region",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000426",
+    "vietnamese": "luật",
+    "english": "law",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000427",
+    "vietnamese": "chuyển",
+    "english": "transfer/move",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000428",
+    "vietnamese": "sông",
+    "english": "river",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000429",
+    "vietnamese": "bàn",
+    "english": "table",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000430",
+    "vietnamese": "địa bàn",
+    "english": "area/territory",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000431",
+    "vietnamese": "thấp",
+    "english": "low",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000432",
+    "vietnamese": "tuyến",
+    "english": "route/line",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000433",
+    "vietnamese": "giáo dục",
+    "english": "education",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000434",
+    "vietnamese": "lượng",
+    "english": "amount/quantity",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000435",
+    "vietnamese": "đại diện",
+    "english": "representative",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000436",
+    "vietnamese": "tiến hành",
+    "english": "proceed/carry out",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000437",
+    "vietnamese": "cá nhân",
+    "english": "individual/personal",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000438",
+    "vietnamese": "cụ thể",
+    "english": "specific/concrete",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000439",
+    "vietnamese": "tài sản",
+    "english": "property/assets",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000440",
+    "vietnamese": "sớm",
+    "english": "early",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000441",
+    "vietnamese": "thiếu",
+    "english": "lack/short of",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000442",
+    "vietnamese": "chỉ đạo",
+    "english": "direct/guide",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000443",
+    "vietnamese": "thành công",
+    "english": "success",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000444",
+    "vietnamese": "hội",
+    "english": "association/meeting",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000445",
+    "vietnamese": "thương mại",
+    "english": "trade/commerce",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000446",
+    "vietnamese": "quá trình",
+    "english": "process",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000447",
+    "vietnamese": "lớp",
+    "english": "class/grade",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000448",
+    "vietnamese": "chẳng",
+    "english": "not at all",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000449",
+    "vietnamese": "màu",
+    "english": "color",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000450",
+    "vietnamese": "nhanh",
+    "english": "fast/quick",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000451",
+    "vietnamese": "tập trung",
+    "english": "concentrate/focus",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000452",
+    "vietnamese": "hoa",
+    "english": "flower",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000453",
+    "vietnamese": "thuốc",
+    "english": "medicine",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000454",
+    "vietnamese": "sinh",
+    "english": "birth/give birth",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000455",
+    "vietnamese": "hãng",
+    "english": "company/brand",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000456",
+    "vietnamese": "hộ",
+    "english": "household",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000457",
+    "vietnamese": "nhiệm vụ",
+    "english": "task/mission",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000458",
+    "vietnamese": "nước ngoài",
+    "english": "foreign country/abroad",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000459",
+    "vietnamese": "đại học",
+    "english": "university",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000460",
+    "vietnamese": "cung cấp",
+    "english": "provide/supply",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000461",
+    "vietnamese": "cầu",
+    "english": "bridge/goal",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000462",
+    "vietnamese": "giá trị",
+    "english": "value",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000463",
+    "vietnamese": "đá",
+    "english": "stone/kick",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000464",
+    "vietnamese": "trả",
+    "english": "pay/return",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000465",
+    "vietnamese": "nhờ",
+    "english": "thanks to",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000466",
+    "vietnamese": "cứ",
+    "english": "just/keep",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000467",
+    "vietnamese": "vượt",
+    "english": "exceed/pass",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000468",
+    "vietnamese": "hiểu",
+    "english": "understand",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000469",
+    "vietnamese": "thực tế",
+    "english": "reality/actual",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000470",
+    "vietnamese": "phép",
+    "english": "permission",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000471",
+    "vietnamese": "Nhật Bản",
+    "english": "Japan",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000472",
+    "vietnamese": "nạn nhân",
+    "english": "victim",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000473",
+    "vietnamese": "bắt đầu",
+    "english": "begin/start",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000474",
+    "vietnamese": "hợp tác",
+    "english": "cooperate",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000475",
+    "vietnamese": "cầu thủ",
+    "english": "player",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000476",
+    "vietnamese": "hành vi",
+    "english": "behavior",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000477",
+    "vietnamese": "lĩnh vực",
+    "english": "field/domain",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000478",
+    "vietnamese": "tấn công",
+    "english": "attack",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000479",
+    "vietnamese": "giống",
+    "english": "similar/like",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000480",
+    "vietnamese": "pháp",
+    "english": "law/method",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000481",
+    "vietnamese": "hôm",
+    "english": "today",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000482",
+    "vietnamese": "mắt",
+    "english": "eye",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000483",
+    "vietnamese": "viết",
+    "english": "write",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000484",
+    "vietnamese": "nội dung",
+    "english": "content",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000485",
+    "vietnamese": "ngồi",
+    "english": "sit",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000486",
+    "vietnamese": "pháp luật",
+    "english": "law",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000487",
+    "vietnamese": "đề nghị",
+    "english": "suggest/propose",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000488",
+    "vietnamese": "cơ hội",
+    "english": "opportunity",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000489",
+    "vietnamese": "thuế",
+    "english": "tax",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000490",
+    "vietnamese": "vị trí",
+    "english": "position",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000491",
+    "vietnamese": "chịu",
+    "english": "bear/endure",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000492",
+    "vietnamese": "chọn",
+    "english": "choose/select",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000493",
+    "vietnamese": "an ninh",
+    "english": "security",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000494",
+    "vietnamese": "bộ trưởng",
+    "english": "minister",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000495",
+    "vietnamese": "vài",
+    "english": "a few/some",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000496",
+    "vietnamese": "vi phạm",
+    "english": "violate",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000497",
+    "vietnamese": "cuộc sống",
+    "english": "life",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000498",
+    "vietnamese": "lòng",
+    "english": "heart",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000499",
+    "vietnamese": "càng",
+    "english": "the more",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000500",
+    "vietnamese": "chứ",
+    "english": "but/rather",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000501",
+    "vietnamese": "sân",
+    "english": "field/court/yard",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000502",
+    "vietnamese": "khách hàng",
+    "english": "customer/client",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000503",
+    "vietnamese": "khoa học",
+    "english": "science",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000504",
+    "vietnamese": "gồm",
+    "english": "include/consist of",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000505",
+    "vietnamese": "quốc hội",
+    "english": "parliament/national assembly",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000506",
+    "vietnamese": "quan tâm",
+    "english": "care/concern",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000507",
+    "vietnamese": "tết",
+    "english": "Tet (Vietnamese New Year)",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000508",
+    "vietnamese": "thành viên",
+    "english": "member",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000509",
+    "vietnamese": "mở",
+    "english": "open",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000510",
+    "vietnamese": "ngoài ra",
+    "english": "besides/in addition",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000511",
+    "vietnamese": "chuyến",
+    "english": "trip/journey",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000512",
+    "vietnamese": "chính thức",
+    "english": "official/formal",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000513",
+    "vietnamese": "Hàn Quốc",
+    "english": "South Korea",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000514",
+    "vietnamese": "nặng",
+    "english": "heavy/serious",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000515",
+    "vietnamese": "công",
+    "english": "public/merit",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000516",
+    "vietnamese": "mục tiêu",
+    "english": "goal/target",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000517",
+    "vietnamese": "chúng",
+    "english": "they (third person)",
+    "tags": [
+      "top_1000_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000518",
+    "vietnamese": "thắng",
+    "english": "win/victory",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000519",
+    "vietnamese": "thậm chí",
+    "english": "even",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000520",
+    "vietnamese": "hoàn toàn",
+    "english": "completely/totally",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000521",
+    "vietnamese": "điện thoại",
+    "english": "phone/telephone",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000522",
+    "vietnamese": "nền",
+    "english": "foundation/base",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000523",
+    "vietnamese": "chuẩn bị",
+    "english": "prepare",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000524",
+    "vietnamese": "nàng",
+    "english": "she/young lady",
+    "tags": [
+      "top_1000_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000525",
+    "vietnamese": "dòng",
+    "english": "line/flow/model",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000526",
+    "vietnamese": "tăng cường",
+    "english": "strengthen/enhance",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000527",
+    "vietnamese": "toàn",
+    "english": "all/entire",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000528",
+    "vietnamese": "công bố",
+    "english": "announce/publish",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000529",
+    "vietnamese": "giao",
+    "english": "deliver/hand over",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000530",
+    "vietnamese": "bất ngờ",
+    "english": "unexpected/sudden",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000531",
+    "vietnamese": "ý kiến",
+    "english": "opinion/view",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000532",
+    "vietnamese": "quay",
+    "english": "turn/return/film",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000533",
+    "vietnamese": "bản",
+    "english": "version/copy",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000534",
+    "vietnamese": "công việc",
+    "english": "work/job",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000535",
+    "vietnamese": "đào tạo",
+    "english": "train/training",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000536",
+    "vietnamese": "Đà Nẵng",
+    "english": "Da Nang",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000537",
+    "vietnamese": "giám đốc",
+    "english": "director/manager",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000538",
+    "vietnamese": "đầy",
+    "english": "full",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000539",
+    "vietnamese": "thiết kế",
+    "english": "design",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000540",
+    "vietnamese": "xác định",
+    "english": "determine/identify",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000541",
+    "vietnamese": "trung ương",
+    "english": "central",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000542",
+    "vietnamese": "chính quyền",
+    "english": "government/authority",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000543",
+    "vietnamese": "xa",
+    "english": "far/distant",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000544",
+    "vietnamese": "trở lại",
+    "english": "return/come back",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000545",
+    "vietnamese": "hòa",
+    "english": "peaceful/draw",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000546",
+    "vietnamese": "vị",
+    "english": "taste/position",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000547",
+    "vietnamese": "chàng",
+    "english": "he/young man",
+    "tags": [
+      "top_1000_words",
+      "pronouns",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000548",
+    "vietnamese": "nguyên nhân",
+    "english": "cause/reason",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000549",
+    "vietnamese": "phục vụ",
+    "english": "serve",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000550",
+    "vietnamese": "chuyên gia",
+    "english": "expert/specialist",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000551",
+    "vietnamese": "mấy",
+    "english": "how many/a few",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000552",
+    "vietnamese": "công trình",
+    "english": "project/construction",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000553",
+    "vietnamese": "đóng",
+    "english": "close/shut/play role",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000554",
+    "vietnamese": "hãy",
+    "english": "please (imperative)",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000555",
+    "vietnamese": "cười",
+    "english": "laugh/smile",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000556",
+    "vietnamese": "đức",
+    "english": "virtue/Germany",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000557",
+    "vietnamese": "quân",
+    "english": "army/military",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000558",
+    "vietnamese": "máy",
+    "english": "machine",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000559",
+    "vietnamese": "trực tiếp",
+    "english": "direct/live",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000560",
+    "vietnamese": "cục",
+    "english": "bureau/agency",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000561",
+    "vietnamese": "khoản",
+    "english": "amount/item",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000562",
+    "vietnamese": "khán giả",
+    "english": "audience/viewer",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000563",
+    "vietnamese": "cá",
+    "english": "fish/individual",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000564",
+    "vietnamese": "tình hình",
+    "english": "situation",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000565",
+    "vietnamese": "thí sinh",
+    "english": "candidate/examinee",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000566",
+    "vietnamese": "trang",
+    "english": "page/dress",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000567",
+    "vietnamese": "vay",
+    "english": "borrow/loan",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000568",
+    "vietnamese": "tránh",
+    "english": "avoid",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000569",
+    "vietnamese": "phù hợp",
+    "english": "suitable/appropriate",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000570",
+    "vietnamese": "hát",
+    "english": "sing",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000571",
+    "vietnamese": "mối",
+    "english": "relationship/connection",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000572",
+    "vietnamese": "chỗ",
+    "english": "place/spot",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000573",
+    "vietnamese": "mẫu",
+    "english": "sample/model",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000574",
+    "vietnamese": "thích",
+    "english": "like/prefer",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000575",
+    "vietnamese": "nợ",
+    "english": "debt/owe",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000576",
+    "vietnamese": "giai đoạn",
+    "english": "stage/phase",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000577",
+    "vietnamese": "mưa",
+    "english": "rain",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000578",
+    "vietnamese": "giao dịch",
+    "english": "transaction",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000579",
+    "vietnamese": "thể hiện",
+    "english": "express/show",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000580",
+    "vietnamese": "vụ việc",
+    "english": "incident/case",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000581",
+    "vietnamese": "nhân viên",
+    "english": "employee/staff",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000582",
+    "vietnamese": "thông báo",
+    "english": "announce/notice",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000583",
+    "vietnamese": "hội nghị",
+    "english": "conference/meeting",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000584",
+    "vietnamese": "thiết bị",
+    "english": "equipment/device",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000585",
+    "vietnamese": "chính trị",
+    "english": "politics",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000586",
+    "vietnamese": "da",
+    "english": "skin",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000587",
+    "vietnamese": "giành",
+    "english": "win/seize",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000588",
+    "vietnamese": "bảng",
+    "english": "table/board",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000589",
+    "vietnamese": "cháy",
+    "english": "fire/burn",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000590",
+    "vietnamese": "tối",
+    "english": "evening/night",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000591",
+    "vietnamese": "thông qua",
+    "english": "through/via",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000592",
+    "vietnamese": "bay",
+    "english": "fly",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000593",
+    "vietnamese": "kiểm soát",
+    "english": "control",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000594",
+    "vietnamese": "tai nạn",
+    "english": "accident",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000595",
+    "vietnamese": "hồi",
+    "english": "time/when",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000596",
+    "vietnamese": "nhu cầu",
+    "english": "need/demand",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000597",
+    "vietnamese": "trả lời",
+    "english": "answer/reply",
+    "tags": [
+      "top_1000_words",
+      "common_verbs",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000598",
+    "vietnamese": "dầu",
+    "english": "oil",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000599",
+    "vietnamese": "giới",
+    "english": "world/society",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000600",
+    "vietnamese": "họp",
+    "english": "meet/meeting",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000601",
+    "vietnamese": "đoạn",
+    "english": "segment/section",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000602",
+    "vietnamese": "hợp đồng",
+    "english": "contract",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000603",
+    "vietnamese": "tuyên bố",
+    "english": "declare/announce",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000604",
+    "vietnamese": "đàn ông",
+    "english": "man/men",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000605",
+    "vietnamese": "uống",
+    "english": "drink",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000606",
+    "vietnamese": "phiên",
+    "english": "session/round",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000607",
+    "vietnamese": "nghề",
+    "english": "profession/job",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000608",
+    "vietnamese": "thăm",
+    "english": "visit",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000609",
+    "vietnamese": "sức khỏe",
+    "english": "health",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000610",
+    "vietnamese": "tiếp",
+    "english": "continue/receive",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000611",
+    "vietnamese": "Triều Tiên",
+    "english": "North Korea",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000612",
+    "vietnamese": "ngôi",
+    "english": "position/rank",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000613",
+    "vietnamese": "bắc",
+    "english": "north",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000614",
+    "vietnamese": "sở hữu",
+    "english": "own/possession",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000615",
+    "vietnamese": "cuối cùng",
+    "english": "finally/last",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000616",
+    "vietnamese": "món",
+    "english": "dish/item",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000617",
+    "vietnamese": "bác sĩ",
+    "english": "doctor",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000618",
+    "vietnamese": "hành động",
+    "english": "action",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000619",
+    "vietnamese": "kỹ thuật",
+    "english": "technique/technology",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000620",
+    "vietnamese": "dễ",
+    "english": "easy",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000621",
+    "vietnamese": "một cách",
+    "english": "in a way",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000622",
+    "vietnamese": "quân đội",
+    "english": "army/military",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000623",
+    "vietnamese": "thế nào",
+    "english": "how",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000624",
+    "vietnamese": "sinh viên",
+    "english": "student",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000625",
+    "vietnamese": "rừng",
+    "english": "forest",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000626",
+    "vietnamese": "quả",
+    "english": "fruit",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000627",
+    "vietnamese": "lâu",
+    "english": "long time",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000628",
+    "vietnamese": "nhớ",
+    "english": "remember/miss",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000629",
+    "vietnamese": "hiện tại",
+    "english": "currently/now",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000630",
+    "vietnamese": "thanh niên",
+    "english": "youth/young people",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000631",
+    "vietnamese": "xanh",
+    "english": "green/blue",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000632",
+    "vietnamese": "thôi",
+    "english": "stop/enough",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000633",
+    "vietnamese": "cậu",
+    "english": "you (to male)/uncle",
+    "tags": [
+      "top_1000_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000634",
+    "vietnamese": "mặc dù",
+    "english": "although",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000635",
+    "vietnamese": "chất",
+    "english": "substance/quality",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000636",
+    "vietnamese": "thường xuyên",
+    "english": "frequently/often",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000637",
+    "vietnamese": "công nghiệp",
+    "english": "industry",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000638",
+    "vietnamese": "tấn",
+    "english": "ton",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000639",
+    "vietnamese": "thực phẩm",
+    "english": "food",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000640",
+    "vietnamese": "biện pháp",
+    "english": "measure/solution",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000641",
+    "vietnamese": "làng",
+    "english": "village",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000642",
+    "vietnamese": "giải pháp",
+    "english": "solution",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000643",
+    "vietnamese": "đứa",
+    "english": "child (classifier)",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000644",
+    "vietnamese": "áo",
+    "english": "shirt/clothing",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000645",
+    "vietnamese": "dự kiến",
+    "english": "expected/planned",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000646",
+    "vietnamese": "nổi tiếng",
+    "english": "famous",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000647",
+    "vietnamese": "nguyên",
+    "english": "original/whole",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000648",
+    "vietnamese": "bảo",
+    "english": "say/tell",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000649",
+    "vietnamese": "tập đoàn",
+    "english": "corporation/group",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000650",
+    "vietnamese": "cũ",
+    "english": "old",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000651",
+    "vietnamese": "hôm nay",
+    "english": "today",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000652",
+    "vietnamese": "tích cực",
+    "english": "active/positive",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000653",
+    "vietnamese": "đảo",
+    "english": "island",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000654",
+    "vietnamese": "phương tiện",
+    "english": "vehicle/means",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000655",
+    "vietnamese": "ủy ban",
+    "english": "committee",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000656",
+    "vietnamese": "bức",
+    "english": "classifier for pictures/letters",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000657",
+    "vietnamese": "quý",
+    "english": "quarter/precious",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000658",
+    "vietnamese": "lịch sử",
+    "english": "history",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000659",
+    "vietnamese": "khai thác",
+    "english": "exploit/extract",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000660",
+    "vietnamese": "hồ",
+    "english": "lake",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000661",
+    "vietnamese": "ổn định",
+    "english": "stable/stable",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000662",
+    "vietnamese": "hồ sơ",
+    "english": "file/record",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000663",
+    "vietnamese": "vừa qua",
+    "english": "recently",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000664",
+    "vietnamese": "nuôi",
+    "english": "raise/feed",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000665",
+    "vietnamese": "đăng ký",
+    "english": "register",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000666",
+    "vietnamese": "giấy",
+    "english": "paper/certificate",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000667",
+    "vietnamese": "dân tộc",
+    "english": "ethnicity/nation",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000668",
+    "vietnamese": "bình",
+    "english": "bottle/peace",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000669",
+    "vietnamese": "hoàn thành",
+    "english": "complete",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000670",
+    "vietnamese": "lựa chọn",
+    "english": "choose/select",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000671",
+    "vietnamese": "chức năng",
+    "english": "function",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000672",
+    "vietnamese": "xuất khẩu",
+    "english": "export",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000673",
+    "vietnamese": "tên lửa",
+    "english": "rocket",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000674",
+    "vietnamese": "cổ phiếu",
+    "english": "stock/share",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000675",
+    "vietnamese": "đại biểu",
+    "english": "representative/delegate",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000676",
+    "vietnamese": "dừng",
+    "english": "stop",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000677",
+    "vietnamese": "toàn bộ",
+    "english": "entire/all",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000678",
+    "vietnamese": "trận đấu",
+    "english": "match/game",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000679",
+    "vietnamese": "cộng đồng",
+    "english": "community",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000680",
+    "vietnamese": "bao giờ",
+    "english": "when",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000681",
+    "vietnamese": "thầy",
+    "english": "teacher/master",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000682",
+    "vietnamese": "trở",
+    "english": "return/become",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000683",
+    "vietnamese": "thuê",
+    "english": "rent/hire",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000684",
+    "vietnamese": "suốt",
+    "english": "throughout/all",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000685",
+    "vietnamese": "lắm",
+    "english": "very/much",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000686",
+    "vietnamese": "ngày càng",
+    "english": "increasingly",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000687",
+    "vietnamese": "trái",
+    "english": "fruit/left",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000688",
+    "vietnamese": "kẻ",
+    "english": "person (derogatory)",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000689",
+    "vietnamese": "diễn viên",
+    "english": "actor/actress",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000690",
+    "vietnamese": "bệnh nhân",
+    "english": "patient",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000691",
+    "vietnamese": "đồ",
+    "english": "thing/item",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000692",
+    "vietnamese": "vợ chồng",
+    "english": "husband and wife",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000693",
+    "vietnamese": "vai trò",
+    "english": "role",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000694",
+    "vietnamese": "quân sự",
+    "english": "military",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000695",
+    "vietnamese": "máu",
+    "english": "blood",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000696",
+    "vietnamese": "sách",
+    "english": "book",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000697",
+    "vietnamese": "tạm",
+    "english": "temporary",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000698",
+    "vietnamese": "áp dụng",
+    "english": "apply",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000699",
+    "vietnamese": "ca",
+    "english": "song/classifier for songs",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000700",
+    "vietnamese": "lập",
+    "english": "establish/set up",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000701",
+    "vietnamese": "ô tô",
+    "english": "car/automobile",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000702",
+    "vietnamese": "đất nước",
+    "english": "country/nation",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000703",
+    "vietnamese": "trăm",
+    "english": "hundred",
+    "tags": [
+      "top_1000_words",
+      "numbers"
+    ]
+  },
+  {
+    "id": "000704",
+    "vietnamese": "chiếm",
+    "english": "occupy",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000705",
+    "vietnamese": "nghèo",
+    "english": "poor",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000706",
+    "vietnamese": "ủng hộ",
+    "english": "support",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000707",
+    "vietnamese": "song",
+    "english": "however/but",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000708",
+    "vietnamese": "đơn",
+    "english": "form/single",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000709",
+    "vietnamese": "sức",
+    "english": "strength/power",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000710",
+    "vietnamese": "nông nghiệp",
+    "english": "agriculture",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000711",
+    "vietnamese": "chục",
+    "english": "ten",
+    "tags": [
+      "top_1000_words",
+      "numbers"
+    ]
+  },
+  {
+    "id": "000712",
+    "vietnamese": "nỗ lực",
+    "english": "effort",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000713",
+    "vietnamese": "Hồ Chí Minh",
+    "english": "Ho Chi Minh",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000714",
+    "vietnamese": "tăng trưởng",
+    "english": "growth",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000715",
+    "vietnamese": "bị cáo",
+    "english": "defendant",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000716",
+    "vietnamese": "con người",
+    "english": "human being",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000717",
+    "vietnamese": "coi",
+    "english": "consider/regard",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000718",
+    "vietnamese": "quán",
+    "english": "restaurant/shop",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000719",
+    "vietnamese": "chi phí",
+    "english": "cost/expense",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000720",
+    "vietnamese": "liên tục",
+    "english": "continuous",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000721",
+    "vietnamese": "thu hút",
+    "english": "attract",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000722",
+    "vietnamese": "viện",
+    "english": "institute/hospital",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000723",
+    "vietnamese": "trao đổi",
+    "english": "exchange",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000724",
+    "vietnamese": "lý do",
+    "english": "reason",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000725",
+    "vietnamese": "thi đấu",
+    "english": "compete",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000726",
+    "vietnamese": "xe máy",
+    "english": "motorcycle",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000727",
+    "vietnamese": "ghi",
+    "english": "record/write",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000728",
+    "vietnamese": "tặng",
+    "english": "give/present",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000729",
+    "vietnamese": "bản thân",
+    "english": "oneself",
+    "tags": [
+      "top_1000_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000730",
+    "vietnamese": "ca sĩ",
+    "english": "singer",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000731",
+    "vietnamese": "lương",
+    "english": "salary",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000732",
+    "vietnamese": "hội đồng",
+    "english": "council/board",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000733",
+    "vietnamese": "âu",
+    "english": "Europe",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000734",
+    "vietnamese": "hạn chế",
+    "english": "limit/restrict",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000735",
+    "vietnamese": "điều trị",
+    "english": "treat/treatment",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000736",
+    "vietnamese": "cửa",
+    "english": "door",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000737",
+    "vietnamese": "mời",
+    "english": "invite",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000738",
+    "vietnamese": "thành lập",
+    "english": "establish/found",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000739",
+    "vietnamese": "rộng",
+    "english": "wide",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000740",
+    "vietnamese": "nhạc",
+    "english": "music",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000741",
+    "vietnamese": "thịt",
+    "english": "meat",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000742",
+    "vietnamese": "trồng",
+    "english": "plant/grow",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000743",
+    "vietnamese": "đời",
+    "english": "life/generation",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000744",
+    "vietnamese": "chiến thắng",
+    "english": "victory",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000745",
+    "vietnamese": "niềm",
+    "english": "feeling (noun prefix)",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000746",
+    "vietnamese": "nguy cơ",
+    "english": "risk/danger",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000747",
+    "vietnamese": "phát biểu",
+    "english": "speak/statement",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000748",
+    "vietnamese": "báo chí",
+    "english": "press/media",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000749",
+    "vietnamese": "chụp",
+    "english": "photograph",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000750",
+    "vietnamese": "cảnh",
+    "english": "scene/scenery",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000751",
+    "vietnamese": "phố",
+    "english": "street",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000752",
+    "vietnamese": "tỉ",
+    "english": "billion",
+    "tags": [
+      "top_1000_words",
+      "numbers"
+    ]
+  },
+  {
+    "id": "000753",
+    "vietnamese": "chiến lược",
+    "english": "strategy",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000754",
+    "vietnamese": "chở",
+    "english": "carry/transport",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000755",
+    "vietnamese": "hiện trường",
+    "english": "scene",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000756",
+    "vietnamese": "thực sự",
+    "english": "really/actually",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000757",
+    "vietnamese": "vì vậy",
+    "english": "therefore",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000758",
+    "vietnamese": "tỷ lệ",
+    "english": "ratio/proportion",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000759",
+    "vietnamese": "đỏ",
+    "english": "red",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000760",
+    "vietnamese": "tinh thần",
+    "english": "spirit",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000761",
+    "vietnamese": "núi",
+    "english": "mountain",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000762",
+    "vietnamese": "nhanh chóng",
+    "english": "quickly",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000763",
+    "vietnamese": "khóa",
+    "english": "lock/course",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000764",
+    "vietnamese": "xong",
+    "english": "finished/done",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000765",
+    "vietnamese": "có mặt",
+    "english": "present/attend",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000766",
+    "vietnamese": "số lượng",
+    "english": "quantity",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000767",
+    "vietnamese": "góp phần",
+    "english": "contribute",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000768",
+    "vietnamese": "sự kiện",
+    "english": "event",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000769",
+    "vietnamese": "nêu",
+    "english": "raise/mention",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000770",
+    "vietnamese": "mở rộng",
+    "english": "expand",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000771",
+    "vietnamese": "chú ý",
+    "english": "attention/note",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000772",
+    "vietnamese": "bóng đá",
+    "english": "football/soccer",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000773",
+    "vietnamese": "sâu",
+    "english": "deep",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000774",
+    "vietnamese": "thủ đô",
+    "english": "capital",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000775",
+    "vietnamese": "rơi",
+    "english": "fall/drop",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000776",
+    "vietnamese": "ký",
+    "english": "sign",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000777",
+    "vietnamese": "chờ",
+    "english": "wait",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000778",
+    "vietnamese": "đem",
+    "english": "bring",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000779",
+    "vietnamese": "chợ",
+    "english": "market",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000780",
+    "vietnamese": "trắng",
+    "english": "white",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000781",
+    "vietnamese": "á",
+    "english": "Asia",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000782",
+    "vietnamese": "trời",
+    "english": "sky/heaven",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000783",
+    "vietnamese": "ngủ",
+    "english": "sleep",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000784",
+    "vietnamese": "tầm",
+    "english": "scope/level",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000785",
+    "vietnamese": "trải",
+    "english": "spread/experience",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000786",
+    "vietnamese": "bao gồm",
+    "english": "include",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000787",
+    "vietnamese": "quê",
+    "english": "hometown",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000788",
+    "vietnamese": "vai",
+    "english": "shoulder/role",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000789",
+    "vietnamese": "bây giờ",
+    "english": "now",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000790",
+    "vietnamese": "tìm kiếm",
+    "english": "search",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000791",
+    "vietnamese": "chi",
+    "english": "spend/branch",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000792",
+    "vietnamese": "dịp",
+    "english": "occasion",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000793",
+    "vietnamese": "truyền thống",
+    "english": "tradition",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000794",
+    "vietnamese": "bổ sung",
+    "english": "supplement",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000795",
+    "vietnamese": "thủ tục",
+    "english": "procedure",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000796",
+    "vietnamese": "câu chuyện",
+    "english": "story",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000797",
+    "vietnamese": "vé",
+    "english": "ticket",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000798",
+    "vietnamese": "dự",
+    "english": "attend/expect",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000799",
+    "vietnamese": "ma túy",
+    "english": "drugs",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000800",
+    "vietnamese": "tử vong",
+    "english": "death",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000801",
+    "vietnamese": "quỹ",
+    "english": "fund/foundation",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000802",
+    "vietnamese": "tấm",
+    "english": "sheet/classifier for flat objects",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000803",
+    "vietnamese": "bờ",
+    "english": "shore/edge",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000804",
+    "vietnamese": "cặp",
+    "english": "pair/bag",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000805",
+    "vietnamese": "đổ",
+    "english": "pour/collapse",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000806",
+    "vietnamese": "rút",
+    "english": "withdraw/extract",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000807",
+    "vietnamese": "thanh",
+    "english": "bar/stick",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000808",
+    "vietnamese": "trao",
+    "english": "hand over/award",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000809",
+    "vietnamese": "nghìn",
+    "english": "thousand",
+    "tags": [
+      "top_1000_words",
+      "numbers"
+    ]
+  },
+  {
+    "id": "000810",
+    "vietnamese": "trẻ em",
+    "english": "children",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000811",
+    "vietnamese": "kinh nghiệm",
+    "english": "experience",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000812",
+    "vietnamese": "vũ khí",
+    "english": "weapon",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000813",
+    "vietnamese": "vui",
+    "english": "happy/joyful",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000814",
+    "vietnamese": "quốc phòng",
+    "english": "national defense",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000815",
+    "vietnamese": "thanh tra",
+    "english": "inspection/inspector",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000816",
+    "vietnamese": "thời",
+    "english": "time/era",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000817",
+    "vietnamese": "Thái Lan",
+    "english": "Thailand",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000818",
+    "vietnamese": "giám sát",
+    "english": "supervise/monitor",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000819",
+    "vietnamese": "hùng",
+    "english": "heroic",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000820",
+    "vietnamese": "trưởng",
+    "english": "head/leader",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000821",
+    "vietnamese": "văn bản",
+    "english": "document/text",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000822",
+    "vietnamese": "trai",
+    "english": "boy/male",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000823",
+    "vietnamese": "tòa",
+    "english": "court/building",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000824",
+    "vietnamese": "nghệ thuật",
+    "english": "art",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000825",
+    "vietnamese": "giới thiệu",
+    "english": "introduce",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000826",
+    "vietnamese": "chủ yếu",
+    "english": "mainly/primarily",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000827",
+    "vietnamese": "tình",
+    "english": "feeling/situation",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000828",
+    "vietnamese": "nghiêm trọng",
+    "english": "serious",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000829",
+    "vietnamese": "sắp",
+    "english": "about to/soon",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000830",
+    "vietnamese": "khối",
+    "english": "block/mass",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000831",
+    "vietnamese": "nhấn mạnh",
+    "english": "emphasize",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000832",
+    "vietnamese": "cổ phần",
+    "english": "share/stock",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000833",
+    "vietnamese": "nổi",
+    "english": "float/famous",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000834",
+    "vietnamese": "thôn",
+    "english": "village",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000835",
+    "vietnamese": "hành chính",
+    "english": "administrative",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000836",
+    "vietnamese": "a",
+    "english": "a (letter)",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000837",
+    "vietnamese": "đô thị",
+    "english": "urban/city",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000838",
+    "vietnamese": "tham dự",
+    "english": "participate/attend",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000839",
+    "vietnamese": "tổ",
+    "english": "nest/group",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000840",
+    "vietnamese": "chăm sóc",
+    "english": "care for",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000841",
+    "vietnamese": "kết thúc",
+    "english": "end/finish",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000842",
+    "vietnamese": "sợ",
+    "english": "afraid/fear",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000843",
+    "vietnamese": "tờ",
+    "english": "sheet/classifier for papers",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000844",
+    "vietnamese": "nhà máy",
+    "english": "factory",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000845",
+    "vietnamese": "nhân",
+    "english": "person/factor",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000846",
+    "vietnamese": "cứu",
+    "english": "save/rescue",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000847",
+    "vietnamese": "điều chỉnh",
+    "english": "adjust/regulate",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000848",
+    "vietnamese": "cảm thấy",
+    "english": "feel",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000849",
+    "vietnamese": "nhập khẩu",
+    "english": "import",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000850",
+    "vietnamese": "cơ quan chức năng",
+    "english": "competent authority",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000851",
+    "vietnamese": "người ta",
+    "english": "people/others",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000852",
+    "vietnamese": "đợt",
+    "english": "batch/round",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000853",
+    "vietnamese": "đáp ứng",
+    "english": "meet/satisfy",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000854",
+    "vietnamese": "kiếm",
+    "english": "earn/sword",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000855",
+    "vietnamese": "bão",
+    "english": "storm/typhoon",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000856",
+    "vietnamese": "ngân sách",
+    "english": "budget",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000857",
+    "vietnamese": "vô cùng",
+    "english": "extremely",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000858",
+    "vietnamese": "lượt",
+    "english": "time/round",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000859",
+    "vietnamese": "kéo dài",
+    "english": "prolong/extend",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000860",
+    "vietnamese": "giọng",
+    "english": "voice/accent",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000861",
+    "vietnamese": "quy hoạch",
+    "english": "planning",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000862",
+    "vietnamese": "thân",
+    "english": "body/close",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000863",
+    "vietnamese": "cơ thể",
+    "english": "body",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000864",
+    "vietnamese": "phí",
+    "english": "fee/expense",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000865",
+    "vietnamese": "tập",
+    "english": "practice/volume",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000866",
+    "vietnamese": "môn",
+    "english": "subject/discipline",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000867",
+    "vietnamese": "nghỉ",
+    "english": "rest/stop",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000868",
+    "vietnamese": "hàng hóa",
+    "english": "goods/merchandise",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000869",
+    "vietnamese": "diện tích",
+    "english": "area",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000870",
+    "vietnamese": "trú",
+    "english": "stay/reside",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000871",
+    "vietnamese": "xem xét",
+    "english": "consider/review",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000872",
+    "vietnamese": "thỏa thuận",
+    "english": "agreement",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000873",
+    "vietnamese": "thể thao",
+    "english": "sports",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000874",
+    "vietnamese": "cánh",
+    "english": "wing/side",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000875",
+    "vietnamese": "cổ",
+    "english": "neck/ancient",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000876",
+    "vietnamese": "phạm",
+    "english": "violate/commit",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000877",
+    "vietnamese": "nắm",
+    "english": "grasp/hold",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000878",
+    "vietnamese": "giết",
+    "english": "kill",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000879",
+    "vietnamese": "đừng",
+    "english": "don't",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000880",
+    "vietnamese": "đọc",
+    "english": "read",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000881",
+    "vietnamese": "hạnh phúc",
+    "english": "happiness",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000882",
+    "vietnamese": "ứng dụng",
+    "english": "application/app",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000883",
+    "vietnamese": "điện tử",
+    "english": "electronic",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000884",
+    "vietnamese": "tội",
+    "english": "crime/sin",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000885",
+    "vietnamese": "tây",
+    "english": "west/western",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000886",
+    "vietnamese": "truyền thông",
+    "english": "media/communication",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000887",
+    "vietnamese": "con gái",
+    "english": "daughter/girl",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000888",
+    "vietnamese": "sẵn sàng",
+    "english": "ready",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000889",
+    "vietnamese": "dần",
+    "english": "gradually",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000890",
+    "vietnamese": "sự việc",
+    "english": "incident/event",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000891",
+    "vietnamese": "bắn",
+    "english": "shoot/fire",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000892",
+    "vietnamese": "mới đây",
+    "english": "recently",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000893",
+    "vietnamese": "căn",
+    "english": "unit/root",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000894",
+    "vietnamese": "ngoại giao",
+    "english": "diplomacy",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000895",
+    "vietnamese": "thay",
+    "english": "replace/instead",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000896",
+    "vietnamese": "nóng",
+    "english": "hot",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000897",
+    "vietnamese": "khai",
+    "english": "declare/open",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000898",
+    "vietnamese": "hướng dẫn",
+    "english": "guide/instruct",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000899",
+    "vietnamese": "dạy",
+    "english": "teach",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000900",
+    "vietnamese": "đau",
+    "english": "pain/hurt",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000901",
+    "vietnamese": "chắc chắn",
+    "english": "certain/sure",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000902",
+    "vietnamese": "tương lai",
+    "english": "future",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000903",
+    "vietnamese": "hình thức",
+    "english": "form/manner",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000904",
+    "vietnamese": "văn phòng",
+    "english": "office",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000905",
+    "vietnamese": "liền",
+    "english": "immediately",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000906",
+    "vietnamese": "ban đầu",
+    "english": "initially/at first",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000907",
+    "vietnamese": "rời",
+    "english": "leave",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000908",
+    "vietnamese": "việc làm",
+    "english": "work/job",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000909",
+    "vietnamese": "thu nhập",
+    "english": "income",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000910",
+    "vietnamese": "tiêu dùng",
+    "english": "consumption",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000911",
+    "vietnamese": "tốc độ",
+    "english": "speed",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000912",
+    "vietnamese": "cha",
+    "english": "father",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000913",
+    "vietnamese": "đen",
+    "english": "black",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000914",
+    "vietnamese": "sân bay",
+    "english": "airport",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000915",
+    "vietnamese": "nhẹ",
+    "english": "light",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000916",
+    "vietnamese": "phó chủ tịch",
+    "english": "vice chairman",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000917",
+    "vietnamese": "mặc",
+    "english": "wear",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000918",
+    "vietnamese": "cấm",
+    "english": "forbid/ban",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000919",
+    "vietnamese": "bị thương",
+    "english": "injured",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000920",
+    "vietnamese": "kia",
+    "english": "that/over there",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000921",
+    "vietnamese": "cắt",
+    "english": "cut",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000922",
+    "vietnamese": "mô hình",
+    "english": "model",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000923",
+    "vietnamese": "hắn",
+    "english": "he (derogatory)",
+    "tags": [
+      "top_1000_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000924",
+    "vietnamese": "cố gắng",
+    "english": "try hard",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000925",
+    "vietnamese": "xấu",
+    "english": "ugly/bad",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000926",
+    "vietnamese": "nguy hiểm",
+    "english": "dangerous",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000927",
+    "vietnamese": "to",
+    "english": "big/large",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000928",
+    "vietnamese": "tuyển",
+    "english": "recruit/select",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000929",
+    "vietnamese": "vận tải",
+    "english": "transport",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000930",
+    "vietnamese": "súng",
+    "english": "gun",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000931",
+    "vietnamese": "hình",
+    "english": "shape/image",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000932",
+    "vietnamese": "đề xuất",
+    "english": "propose/suggest",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000933",
+    "vietnamese": "y",
+    "english": "he (literary)",
+    "tags": [
+      "top_1000_words",
+      "pronouns"
+    ]
+  },
+  {
+    "id": "000934",
+    "vietnamese": "bố",
+    "english": "dad/father",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000935",
+    "vietnamese": "thoát",
+    "english": "escape",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000936",
+    "vietnamese": "bảo đảm",
+    "english": "guarantee",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000937",
+    "vietnamese": "đón",
+    "english": "welcome/pick up",
+    "tags": [
+      "top_1000_words",
+      "greetings",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000938",
+    "vietnamese": "giả",
+    "english": "fake/false",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000939",
+    "vietnamese": "trạm",
+    "english": "station",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000940",
+    "vietnamese": "cạnh tranh",
+    "english": "compete/competition",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000941",
+    "vietnamese": "cần thiết",
+    "english": "necessary",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000942",
+    "vietnamese": "rõ ràng",
+    "english": "clear/obvious",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000943",
+    "vietnamese": "giáo viên",
+    "english": "teacher",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000944",
+    "vietnamese": "công nhân",
+    "english": "worker",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000945",
+    "vietnamese": "trở nên",
+    "english": "become",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000946",
+    "vietnamese": "chứa",
+    "english": "contain",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000947",
+    "vietnamese": "quà",
+    "english": "gift",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000948",
+    "vietnamese": "hề",
+    "english": "clown",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000949",
+    "vietnamese": "nghệ sĩ",
+    "english": "artist",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000950",
+    "vietnamese": "nhận định",
+    "english": "assessment",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000951",
+    "vietnamese": "kiểu",
+    "english": "type/style",
+    "tags": [
+      "top_1000_words",
+      "common_nouns"
+    ]
+  },
+  {
+    "id": "000952",
+    "vietnamese": "bác",
+    "english": "uncle",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000953",
+    "vietnamese": "duy trì",
+    "english": "maintain",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000954",
+    "vietnamese": "mong muốn",
+    "english": "desire/wish",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000955",
+    "vietnamese": "ấn tượng",
+    "english": "impression",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000956",
+    "vietnamese": "phát",
+    "english": "issue/distribute",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000957",
+    "vietnamese": "phương",
+    "english": "direction/method",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000958",
+    "vietnamese": "Sài Gòn",
+    "english": "Saigon",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000959",
+    "vietnamese": "vẻ",
+    "english": "appearance",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000960",
+    "vietnamese": "mắc",
+    "english": "expensive/catch",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000961",
+    "vietnamese": "khắp",
+    "english": "everywhere",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000962",
+    "vietnamese": "truyền hình",
+    "english": "television",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000963",
+    "vietnamese": "vận động",
+    "english": "movement/exercise",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000964",
+    "vietnamese": "xăng",
+    "english": "gasoline",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000965",
+    "vietnamese": "ra mắt",
+    "english": "launch/debut",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000966",
+    "vietnamese": "thương hiệu",
+    "english": "brand",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000967",
+    "vietnamese": "cầm",
+    "english": "hold",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000968",
+    "vietnamese": "mạnh mẽ",
+    "english": "strong/powerful",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000969",
+    "vietnamese": "trung",
+    "english": "center/loyal",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000970",
+    "vietnamese": "sai",
+    "english": "wrong/error",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000971",
+    "vietnamese": "sữa",
+    "english": "milk",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000972",
+    "vietnamese": "tội phạm",
+    "english": "criminal",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000973",
+    "vietnamese": "đóng góp",
+    "english": "contribute",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000974",
+    "vietnamese": "đầy đủ",
+    "english": "complete/full",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000975",
+    "vietnamese": "đồng chí",
+    "english": "comrade",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000976",
+    "vietnamese": "thư",
+    "english": "letter",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000977",
+    "vietnamese": "nổ",
+    "english": "explode",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000978",
+    "vietnamese": "tiến",
+    "english": "advance/progress",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000979",
+    "vietnamese": "phương án",
+    "english": "plan/solution",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000980",
+    "vietnamese": "có lẽ",
+    "english": "perhaps/maybe",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000981",
+    "vietnamese": "cơn",
+    "english": "classifier for weather/attacks",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000982",
+    "vietnamese": "lá",
+    "english": "leaf",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000983",
+    "vietnamese": "ngàn",
+    "english": "thousand",
+    "tags": [
+      "top_1000_words",
+      "numbers"
+    ]
+  },
+  {
+    "id": "000984",
+    "vietnamese": "hạt nhân",
+    "english": "nuclear/core",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000985",
+    "vietnamese": "bình thường",
+    "english": "normal",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000986",
+    "vietnamese": "phá",
+    "english": "destroy/break",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000987",
+    "vietnamese": "thiệt hại",
+    "english": "damage/loss",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000988",
+    "vietnamese": "bánh",
+    "english": "cake/bread",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000989",
+    "vietnamese": "đấy",
+    "english": "there",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000990",
+    "vietnamese": "hiện đại",
+    "english": "modern",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000991",
+    "vietnamese": "vì thế",
+    "english": "therefore",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000992",
+    "vietnamese": "điều hành",
+    "english": "operate/manage",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000993",
+    "vietnamese": "kéo",
+    "english": "pull/drag",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000994",
+    "vietnamese": "nộp",
+    "english": "submit/pay",
+    "tags": [
+      "top_1000_words",
+      "common_verbs"
+    ]
+  },
+  {
+    "id": "000995",
+    "vietnamese": "con trai",
+    "english": "son/boy",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000996",
+    "vietnamese": "nông thôn",
+    "english": "countryside",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000997",
+    "vietnamese": "phóng viên",
+    "english": "reporter",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000998",
+    "vietnamese": "nông dân",
+    "english": "farmer",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "000999",
+    "vietnamese": "tranh",
+    "english": "painting/compete",
+    "tags": [
+      "top_1000_words"
+    ]
+  },
+  {
+    "id": "001000",
+    "vietnamese": "rượu",
+    "english": "alcohol/wine",
+    "tags": [
+      "top_1000_words"
+    ]
+  }
+]
