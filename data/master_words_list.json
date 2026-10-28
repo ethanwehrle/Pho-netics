@@ -3940,10 +3940,11 @@
   {
     "id": "000455",
     "vietnamese": "hãng",
-    "english": "company/brand",
+    "english": "brand",
     "tags": [
       "top_1000_words",
-      "common_nouns"
+      "common_nouns",
+      "business_words"
     ]
   },
   {
