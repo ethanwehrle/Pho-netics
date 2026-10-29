@@ -2,7 +2,7 @@ export default function SiteHeader({ cardsReviewed, isSidebarOpen, onOpenSidebar
   return (
     <header className="site-header">
       <div className="site-header__inner">
-        <h1 className="site-header__title">VietFlip</h1>
+        <h1 className="site-header__title">Pho-netics</h1>
         <div className="site-header__actions">
           <p className="site-header__counter" aria-live="polite" aria-atomic="true">
             <span>Cards reviewed</span>
