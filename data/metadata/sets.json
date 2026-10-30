@@ -48,9 +48,11 @@
     "description": "Practice common Vietnamese people, places, things, and concepts.",
     "image": "/images/pexels-nguyendesigner-11017986.jpg"
   },
- {
+  {
     "name": "Date & Time",
     "tagId": "date_time",
     "difficulty": "easy",
     "description": "Practice words to describe time & date.",
     "image": "/images/pexels-nguyendesigner-11017986.jpg"
+  }
+]
