@@ -1673,7 +1673,8 @@
     "english": "hour/time",
     "tags": [
       "top_1000_words",
-      "common_nouns"
+      "common_nouns",
+      "date_time"
     ]
   },
   {
