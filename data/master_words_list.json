@@ -204,7 +204,8 @@
       "top_1000_words",
       "top_100_words",
       "numbers",
-      "common_nouns"
+      "common_nouns",
+      "date_time"
     ]
   },
   {
@@ -706,7 +707,8 @@
     "tags": [
       "top_1000_words",
       "top_100_words",
-      "common_nouns"
+      "common_nouns",
+      "date_time"
     ]
   },
   {
@@ -1143,7 +1145,8 @@
     "tags": [
       "top_1000_words",
       "numbers",
-      "common_nouns"
+      "common_nouns",
+      "date_time"
     ]
   },
   {
@@ -1152,7 +1155,8 @@
     "english": "time; period",
     "tags": [
       "top_1000_words",
-      "common_nouns"
+      "common_nouns",
+      "date_time"
     ]
   },
   {
@@ -1673,7 +1677,8 @@
     "english": "hour/time",
     "tags": [
       "top_1000_words",
-      "common_nouns"
+      "common_nouns",
+      "date_time"
     ]
   },
   {
@@ -3229,7 +3234,8 @@
     "english": "minute",
     "tags": [
       "top_1000_words",
-      "common_nouns"
+      "common_nouns",
+      "date_time"
     ]
   },
   {
@@ -3940,10 +3946,11 @@
   {
     "id": "000455",
     "vietnamese": "hãng",
-    "english": "company/brand",
+    "english": "brand",
     "tags": [
       "top_1000_words",
-      "common_nouns"
+      "common_nouns",
+      "business_words"
     ]
   },
   {
@@ -8453,6 +8460,62 @@
     "english": "alcohol/wine",
     "tags": [
       "top_1000_words"
+    ]
+  },
+  {
+    "id": "001001",
+    "vietnamese": "thứ hai",
+    "english": "Monday",
+    "tags": [
+      "date_time"
+    ]
+  },
+  {
+    "id": "001002",
+    "vietnamese": "thứ ba",
+    "english": "Tuesday",
+    "tags": [
+      "date_time"
+    ]
+  },
+  {
+    "id": "001003",
+    "vietnamese": "thứ tư",
+    "english": "Wednesday",
+    "tags": [
+      "date_time"
+    ]
+  },
+  {
+    "id": "001004",
+    "vietnamese": "thứ năm",
+    "english": "Thursday",
+    "tags": [
+      "date_time"
+    ]
+  },
+  {
+    "id": "001005",
+    "vietnamese": "thứ sáu",
+    "english": "Friday",
+    "tags": [
+      "date_time"
+    ]
+  },
+  {
+    "id": "001006",
+    "vietnamese": "thứ bảy",
+    "english": "Saturday",
+    "tags": [
+      "date_time"
+    ]
+  },
+  {
+    "id": "001007",
+    "vietnamese": "chủ nhật",
+    "english": "Sunday",
+    "tags": [
+      "date_time"
     ]
   }
 ]
