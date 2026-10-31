@@ -16,7 +16,7 @@ test('creates sets from shared word tags in vocabulary order', () => {
 
   assert.deepEqual(sets.map((set) => set.words.map((word) => word.id)), [['1', '2'], ['1']]);
   assert.equal(sets[0].id, 'top_words');
-  assert.equal(sets[0].image, '/images/placeholder.svg');
+  assert.equal(Object.hasOwn(sets[0], 'image'), false);
 });
 
 test('returns an empty word list for definitions without matching words', () => {

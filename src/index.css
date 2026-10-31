@@ -10,6 +10,10 @@
   box-sizing: border-box;
 }
 
+html {
+  scrollbar-gutter: stable;
+}
+
 html,
 body,
 #root {
@@ -321,19 +325,26 @@ body:has(.site-sidebar[open]) {
   border: 1px solid var(--color-border);
   border-radius: 6px;
   background: var(--color-surface);
+  transition: box-shadow 160ms ease, transform 160ms ease;
+}
+
+.practice-set-card:hover,
+.practice-set-card:has(:focus-visible) {
+  box-shadow: 0 8px 18px rgb(0 0 0 / 16%);
+  transform: translateY(-3px);
 }
 
 .practice-set-card__header {
   display: flex;
   min-height: 4rem;
-  flex-direction: column;
-  gap: 5px;
-  padding: 5px 10px;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  background: linear-gradient(310deg, #fc9e5b 0%, var(--color-accent) 80%);
 }
 
 .practice-set-card__title {
   margin: 0;
-  color: var(--color-heading);
+  color: var(--color-accent-contrast);
   font-size: 1.125rem;
   font-weight: 600;
   line-height: 1.3;
@@ -342,16 +353,19 @@ body:has(.site-sidebar[open]) {
 
 .practice-set-card__meta {
   display: flex;
+  min-height: 3rem;
   align-items: center;
   justify-content: space-between;
   gap: 0.75rem;
-  color: var(--color-muted);
+  padding: 0.5rem 1rem;
+  border-top: 1px solid var(--color-border);
+  color: var(--color-text);
   font-size: 0.8125rem;
 }
 
 .practice-set-card__difficulty {
   padding: 0.2rem 0.45rem;
-  border-radius: 3px;
+  border-radius: 999px;
   background: var(--color-accent);
   color: var(--color-accent-contrast);
   font-size: 0.75rem;
@@ -359,42 +373,14 @@ body:has(.site-sidebar[open]) {
   text-transform: capitalize;
 }
 
-.practice-set-card__image {
-  position: absolute;
-  inset: 0;
-  display: block;
-  width: 100%;
-  height: 100%;
-  background: var(--color-image-placeholder);
-  object-fit: cover;
-}
-
-.practice-set-card__media {
-  position: relative;
-  aspect-ratio: 16 / 10;
-}
-
-.practice-set-card__overlay {
-  position: absolute;
-  inset: 0;
-  overflow: auto;
-  padding: 1rem;
-  background: var(--color-set-overlay);
-  color: var(--color-set-overlay-text);
-  opacity: 0;
-  transition: opacity 160ms ease;
-}
-
 .practice-set-card__description {
+  min-height: 5rem;
   margin: 0;
+  padding: 1rem;
+  color: var(--color-text);
   font-size: 0.9375rem;
   line-height: 1.6;
   overflow-wrap: anywhere;
-}
-
-.practice-set-card:hover .practice-set-card__overlay,
-.practice-set-card:has(:focus-visible) .practice-set-card__overlay {
-  opacity: 1;
 }
 
 .practice-set-card:has(:focus-visible) {
@@ -757,14 +743,16 @@ body:has(.site-sidebar[open]) {
   color: var(--color-accent);
 }
 
-@media (hover: none) {
-  .practice-set-card__overlay {
-    opacity: 1;
-  }
-}
-
 @media (prefers-reduced-motion: reduce) {
-  .practice-set-card__overlay,
+  .practice-set-card {
+    transition: none;
+  }
+
+  .practice-set-card:hover,
+  .practice-set-card:has(:focus-visible) {
+    transform: none;
+  }
+
   .flashcard__inner,
   .flashcard__side-button::before,
   .flashcard__side-button::after,

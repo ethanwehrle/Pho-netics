@@ -19,7 +19,6 @@ export function createPracticeSets(setDefinitions, masterWords) {
     tagId: definition.tagId,
     difficulty: definition.difficulty,
     description: definition.description,
-    image: definition.image || '/images/placeholder.svg',
     words: wordsByTag.get(definition.tagId) ?? [],
   }));
 }

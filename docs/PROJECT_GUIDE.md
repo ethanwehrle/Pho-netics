@@ -190,8 +190,7 @@ when a user opens the site.
   "name": "Top 100 Vietnamese Words",
   "tagId": "top_100_words",
   "difficulty": "easy",
-  "description": "Practice the 100 highest-frequency Vietnamese words.",
-  "image": "/images/pexels-nguyendesigner-11017986.jpg"
+  "description": "Practice the 100 highest-frequency Vietnamese words."
 }
 ```
 
@@ -199,8 +198,6 @@ when a user opens the site.
 - `tagId` connects this definition to words' `tags`.
 - `difficulty` is used by the home-page difficulty filters.
 - `description` is shown on the card and in the dialog.
-- `image` is the image URL used for the card. If it is absent or empty,
-  `createPracticeSets` uses `/images/placeholder.svg`.
 
 The set ID used in the URL is also the set's `tagId`. Therefore each definition
 needs a unique, URL-safe `tagId`; vocabulary tags must use the exact same value.
@@ -533,17 +530,6 @@ appearance.
 The data files are content, not React components. Their shape is important:
 the app expects each word's `tags` to be an array, and each set's `tagId` to
 match those tag values.
-
-### `public/`: static assets
-
-Files in `public/` are copied or served as static files rather than imported
-through JavaScript.
-
-- `public/images/pexels-nguyendesigner-11017986.jpg`: configured card image.
-- `public/images/placeholder.svg`: fallback card image.
-
-Their browser paths omit the `public` directory: the JPEG is addressed as
-`/images/pexels-nguyendesigner-11017986.jpg`.
 
 ### `tests/`: automated checks
 

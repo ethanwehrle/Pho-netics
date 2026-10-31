@@ -16,18 +16,13 @@ export default function PracticeSetCard({ set, onSelect }) {
         <h3 className="practice-set-card__title" id={`set-${set.id}-title`}>
           {set.name}
         </h3>
-        <div className="practice-set-card__meta" id={`set-${set.id}-meta`}>
-          <span>{set.words.length.toLocaleString()} {set.words.length === 1 ? 'word' : 'words'}</span>
-          <span className="practice-set-card__difficulty">{set.difficulty}</span>
-        </div>
       </div>
-      <div className="practice-set-card__media">
-        <img className="practice-set-card__image" src={set.image} alt="" />
-        <div className="practice-set-card__overlay">
-          <p className="practice-set-card__description" id={`set-${set.id}-description`}>
-            {set.description}
-          </p>
-        </div>
+      <p className="practice-set-card__description" id={`set-${set.id}-description`}>
+        {set.description}
+      </p>
+      <div className="practice-set-card__meta" id={`set-${set.id}-meta`}>
+        <span>{set.words.length.toLocaleString()} {set.words.length === 1 ? 'word' : 'words'}</span>
+        <span className="practice-set-card__difficulty">{set.difficulty}</span>
       </div>
     </article>
   );

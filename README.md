@@ -23,10 +23,7 @@ This is a client-side single-page application served and bundled by Vite:
 - `data/master_words_list.csv` is not loaded by the app; keep it synchronized
   with the JSON file if it is maintained as an export.
 - `data/metadata/sets.json` defines the practice sets shown by the app. Each
-  set has a `name`, `tagId`, `difficulty`, `description`, and `image` link.
-- `public/images/` contains static assets served from the site root. The cards
-  use the image configured in each set definition, falling back to
-  `images/placeholder.svg` when no image is configured.
+  set has a `name`, `tagId`, `difficulty`, and `description`.
 - `vite.config.js` configures Vite and its React plugin.
 
 The app uses browser-history URLs: `/` for the home page and
@@ -58,8 +55,7 @@ Set definitions use this shape:
     "name": "Top 1000 Vietnamese Words",
     "tagId": "top_1000_words",
     "difficulty": "easy",
-    "description": "Practice high-frequency Vietnamese words.",
-    "image": "/images/pexels-nguyendesigner-11017986.jpg"
+    "description": "Practice high-frequency Vietnamese words."
   }
 ]
 ```
