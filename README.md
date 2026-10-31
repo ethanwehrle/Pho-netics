@@ -14,6 +14,9 @@ This is a client-side single-page application served and bundled by Vite:
   React Router.
 - `src/data/practiceSets.js` indexes the master word list by tag and creates
   the practice sets from their definitions in one pass.
+- [`docs/PROJECT_GUIDE.md`](./docs/PROJECT_GUIDE.md) is a beginner-focused,
+  in-depth walkthrough of the React app, its files, data flow, and build
+  process.
 - `src/theme.css` defines the color, typography, and other design tokens.
 - `src/index.css` contains the global reset and page and card layout styles.
 - `data/master_words_list.json` is the vocabulary source loaded by the app.
@@ -22,7 +25,8 @@ This is a client-side single-page application served and bundled by Vite:
 - `data/metadata/sets.json` defines the practice sets shown by the app. Each
   set has a `name`, `tagId`, `difficulty`, `description`, and `image` link.
 - `public/images/` contains static assets served from the site root. The cards
-  currently use `images/placeholder.svg`.
+  use the image configured in each set definition, falling back to
+  `images/placeholder.svg` when no image is configured.
 - `vite.config.js` configures Vite and its React plugin.
 
 The app uses browser-history URLs: `/` for the home page and
