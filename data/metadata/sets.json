@@ -3,56 +3,42 @@
     "name": "Top 1000 Vietnamese Words",
     "tagId": "top_1000_words",
     "difficulty": "hard",
-    "description": "Practice 1,000 high-frequency Vietnamese words and phrases with their English translations.",
-    "image": "/images/pexels-nguyendesigner-11017986.jpg"
+    "description": "Practice 1,000 high-frequency Vietnamese words and phrases with their English translations."
   },
   {
     "name": "Top 100 Vietnamese Words",
     "tagId": "top_100_words",
     "difficulty": "easy",
-    "description": "Practice the 100 highest-frequency Vietnamese words with their English translations.",
-    "image": "/images/pexels-nguyendesigner-11017986.jpg"
+    "description": "Practice the 100 highest-frequency Vietnamese words with their English translations."
   },
   {
     "name": "Vietnamese Greetings",
     "tagId": "greetings",
     "difficulty": "easy",
-    "description": "Practice Vietnamese greetings and welcoming expressions.",
-    "image": "/images/pexels-nguyendesigner-11017986.jpg"
+    "description": "Practice Vietnamese greetings and welcoming expressions."
   },
   {
     "name": "Vietnamese Numbers",
     "tagId": "numbers",
     "difficulty": "easy",
-    "description": "Practice Vietnamese number words and quantities.",
-    "image": "/images/pexels-nguyendesigner-11017986.jpg"
+    "description": "Practice Vietnamese number words and quantities."
   },
   {
     "name": "Vietnamese Pronouns",
     "tagId": "pronouns",
     "difficulty": "easy",
-    "description": "Practice Vietnamese personal and reflexive pronouns.",
-    "image": "/images/pexels-nguyendesigner-11017986.jpg"
+    "description": "Practice Vietnamese personal and reflexive pronouns."
   },
   {
     "name": "Common Vietnamese Verbs",
     "tagId": "common_verbs",
     "difficulty": "easy",
-    "description": "Practice common Vietnamese action and state verbs.",
-    "image": "/images/pexels-nguyendesigner-11017986.jpg"
+    "description": "Practice common Vietnamese action and state verbs."
   },
   {
     "name": "Common Vietnamese Nouns",
     "tagId": "common_nouns",
     "difficulty": "easy",
-    "description": "Practice common Vietnamese people, places, things, and concepts.",
-    "image": "/images/pexels-nguyendesigner-11017986.jpg"
-  },
-  {
-    "name": "Date & Time",
-    "tagId": "date_time",
-    "difficulty": "easy",
-    "description": "Practice words to describe time & date.",
-    "image": "/images/pexels-nguyendesigner-11017986.jpg"
+    "description": "Practice common Vietnamese people, places, things, and concepts."
   }
 ]

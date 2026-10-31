@@ -43,7 +43,7 @@ export default function SiteSidebar({ isOpen, theme, onThemeChange, onClose }) {
       onKeyDown={handleKeyDown}
     >
       <div className="site-sidebar__header">
-        <h2 id="site-sidebar-title">Temp Text</h2>
+        <h2 id="site-sidebar-title">Site Settings</h2>
         <button className="site-sidebar__close" type="button" aria-label="Close menu" onClick={onClose}>
           ×
         </button>
