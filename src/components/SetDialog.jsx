@@ -27,14 +27,18 @@ export default function SetDialog({ set, onStartPractice, onClose }) {
           <p className="set-dialog__count" id="set-dialog-count">
             {set.words.length.toLocaleString()} {set.words.length === 1 ? 'word' : 'words'}
           </p>
-          <div className="set-dialog__languages">
-            <button className="language-button" type="button" onClick={() => onStartPractice('english')}>
-              English
-            </button>
-            <button className="language-button" type="button" onClick={() => onStartPractice('vietnamese')}>
-              Vietnamese
-            </button>
-          </div>
+          {set.words.length > 0 ? (
+            <div className="set-dialog__languages">
+              <button className="language-button" type="button" onClick={() => onStartPractice('english')}>
+                English
+              </button>
+              <button className="language-button" type="button" onClick={() => onStartPractice('vietnamese')}>
+                Vietnamese
+              </button>
+            </div>
+          ) : (
+            <p role="status">This set has no words yet.</p>
+          )}
           <button className="cancel-button" type="button" onClick={onClose}>
             Cancel
           </button>

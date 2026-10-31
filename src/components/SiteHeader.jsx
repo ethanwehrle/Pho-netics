@@ -2,10 +2,10 @@ export default function SiteHeader({ cardsReviewed, isSidebarOpen, onOpenSidebar
   return (
     <header className="site-header">
       <div className="site-header__inner">
-        <div className="site-header__title">
-          <h1 className="site-header__title__main">Phở</h1>
-          <span><h1 className="site-header__title__part">-netics</h1></span>
-        </div>
+        <h1 className="site-header__title">
+          <span className="site-header__title__main">Phở</span>
+          <span className="site-header__title__part">-netics</span>
+        </h1>
         <div className="site-header__actions">
           <p className="site-header__counter" aria-live="polite" aria-atomic="true">
             <span>Cards reviewed</span>

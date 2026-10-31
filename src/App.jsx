@@ -1,21 +1,15 @@
-import { useEffect, useState, useSyncExternalStore } from 'react';
+import { useEffect, useState } from 'react';
+import { Link, Route, Routes, useNavigate, useParams, useSearchParams } from 'react-router-dom';
+import HomePage from './components/homePage.jsx';
 import PracticeSession from './components/PracticeSession.jsx';
-import PracticeSetCard from './components/PracticeSetCard.jsx';
 import SetDialog from './components/SetDialog.jsx';
 import SiteSidebar from './components/SiteSidebar.jsx';
 import SiteHeader from './components/SiteHeader.jsx';
 import masterWords from '../data/master_words_list.json';
 import setDefinitions from '../data/metadata/sets.json';
+import { createPracticeSets } from './data/practiceSets.js';
 
-const practiceSets = setDefinitions.map((definition) => ({
-  id: definition.tagId,
-  name: definition.name,
-  tagId: definition.tagId,
-  difficulty: definition.difficulty,
-  description: definition.description,
-  image: definition.image || '/images/placeholder.svg',
-  words: masterWords.filter((word) => word.tags?.includes(definition.tagId)),
-}));
+const practiceSets = createPracticeSets(setDefinitions, masterWords);
 
 const difficultyLevels = ['easy', 'medium', 'hard'];
 const reviewCountStorageKey = 'cue-card-site-stats';
@@ -27,7 +21,8 @@ function readReviewedCardCount() {
     return Number.isSafeInteger(savedStats.cardsReviewed) && savedStats.cardsReviewed >= 0
       ? savedStats.cardsReviewed
       : 0;
-  } catch {
+  } catch (error) {
+    console.warn('Unable to load the saved review count.', error);
     return 0;
   }
 }
@@ -35,49 +30,68 @@ function readReviewedCardCount() {
 function readSavedTheme() {
   try {
     return localStorage.getItem(themeStorageKey) === 'dark' ? 'dark' : 'light';
-  } catch {
+  } catch (error) {
+    console.warn('Unable to load the saved theme.', error);
     return 'light';
   }
 }
 
-function subscribeToLocation(onChange) {
-  window.addEventListener('hashchange', onChange);
-  return () => window.removeEventListener('hashchange', onChange);
+function PracticeRoute({ onCardReviewed }) {
+  const { setId } = useParams();
+  const [searchParams] = useSearchParams();
+  const set = practiceSets.find((practiceSet) => practiceSet.id === setId);
+  const language = searchParams.get('language');
+
+  if (!set || !['english', 'vietnamese'].includes(language)) {
+    return <NotFoundPage />;
+  }
+
+  return (
+    <PracticeSession
+      key={`${set.id}-${language}`}
+      set={set}
+      language={language}
+      onCardReviewed={onCardReviewed}
+    />
+  );
 }
 
-function getLocation() {
-  return window.location.hash;
+function NotFoundPage() {
+  return (
+    <section className="practice-page" aria-labelledby="not-found-heading">
+      <h2 className="practice-page__heading" id="not-found-heading">Page not found</h2>
+      <p>That page doesn’t exist or the practice set is unavailable.</p>
+      <Link to="/">Return home</Link>
+    </section>
+  );
 }
 
 export default function App() {
+  const navigate = useNavigate();
   const [selectedSet, setSelectedSet] = useState(null);
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const [selectedDifficulties, setSelectedDifficulties] = useState(() => new Set());
   const [setSearchQuery, setSetSearchQuery] = useState('');
   const [cardsReviewed, setCardsReviewed] = useState(readReviewedCardCount);
   const [theme, setTheme] = useState(readSavedTheme);
-  const location = useSyncExternalStore(subscribeToLocation, getLocation);
-  const route = new URL(location.slice(1) || '/', window.location.origin);
-  const activeSet = practiceSets.find((set) => route.pathname === `/practice/${set.id}`);
   const normalizedSearchQuery = setSearchQuery.trim().toLowerCase();
   const filteredPracticeSets = practiceSets.filter((set) => {
     const matchesDifficulty = selectedDifficulties.size === 0 || selectedDifficulties.has(set.difficulty);
     const matchesSearch = set.name.toLowerCase().includes(normalizedSearchQuery);
     return matchesDifficulty && matchesSearch;
   });
-  const language = route.searchParams.get('language');
-  const isPracticePage = activeSet && ['english', 'vietnamese'].includes(language);
-
   useEffect(() => {
     document.documentElement.dataset.theme = theme;
 
     try {
       localStorage.setItem(themeStorageKey, theme);
-    } catch {}
+    } catch (error) {
+      console.warn('Unable to save the theme preference.', error);
+    }
   }, [theme]);
 
   function startPractice(language) {
-    window.location.hash = `/practice/${selectedSet.id}?language=${language}`;
+    navigate(`/practice/${encodeURIComponent(selectedSet.id)}?language=${language}`);
     setSelectedSet(null);
   }
 
@@ -87,7 +101,9 @@ export default function App() {
 
     try {
       localStorage.setItem(reviewCountStorageKey, JSON.stringify({ cardsReviewed: nextCount }));
-    } catch {}
+    } catch (error) {
+      console.warn('Unable to save the review count.', error);
+    }
   }
 
   function toggleDifficulty(difficulty) {
@@ -118,51 +134,24 @@ export default function App() {
         onClose={() => setIsSidebarOpen(false)}
       />
       <main className="app">
-        {isPracticePage ? (
-          <PracticeSession
-            key={`${activeSet.id}-${language}`}
-            set={activeSet}
-            language={language}
-            onCardReviewed={recordCardReview}
-          />
-        ) : (
-          <section className="practice-page" aria-label="Practice sets">
-            <div className="practice-set-search">
-              <input
-                className="practice-set-search__input"
-                type="search"
-                value={setSearchQuery}
-                onChange={(event) => setSetSearchQuery(event.target.value)}
-                aria-label="Search practice sets by name"
-                placeholder="Search practice sets"
+        <Routes>
+          <Route
+            path="/"
+            element={
+              <HomePage
+                difficultyLevels={difficultyLevels}
+                filteredPracticeSets={filteredPracticeSets}
+                onSearchQueryChange={setSetSearchQuery}
+                onSelectSet={setSelectedSet}
+                onToggleDifficulty={toggleDifficulty}
+                searchQuery={setSearchQuery}
+                selectedDifficulties={selectedDifficulties}
               />
-            </div>
-            <div className="difficulty-filter" role="group" aria-label="Filter practice sets by difficulty">
-              {difficultyLevels.map((difficulty) => (
-                <button
-                  className="difficulty-filter__pill"
-                  type="button"
-                  key={difficulty}
-                  aria-pressed={selectedDifficulties.has(difficulty)}
-                  onClick={() => toggleDifficulty(difficulty)}
-                >
-                  {difficulty}
-                </button>
-              ))}
-            </div>
-            {filteredPracticeSets.length > 0 ? (
-              <div className="practice-set-grid">
-                {filteredPracticeSets.map((set) => (
-                  <PracticeSetCard key={set.id} set={set} onSelect={setSelectedSet} />
-                ))}
-              </div>
-            ) : (
-              <p className="practice-set-empty" role="status">
-                No practice sets match your search and difficulty filters.
-              </p>
-            )}
-          </section>
-        )}
+            }
+          />
+          <Route path="/practice/:setId" element={<PracticeRoute onCardReviewed={recordCardReview} />} />
+          <Route path="*" element={<NotFoundPage />} />
+        </Routes>
       </main>
       <SetDialog
         set={selectedSet}

@@ -48,6 +48,7 @@ body {
   display: flex;
   align-items: baseline;
   gap: 0rem;
+  margin: 0;
 }
 
 .site-header__title__main {
@@ -740,6 +741,20 @@ body:has(.site-sidebar[open]) {
   border-color: var(--color-accent);
   background: var(--color-accent);
   color: var(--color-accent-contrast);
+}
+
+.practice-empty {
+  display: grid;
+  justify-items: start;
+  gap: 0.75rem;
+}
+
+.practice-empty p {
+  margin: 0;
+}
+
+.practice-empty a {
+  color: var(--color-accent);
 }
 
 @media (hover: none) {

@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Link } from 'react-router-dom';
 
 function shuffleWords(words) {
   const shuffled = [...words];
@@ -68,7 +69,10 @@ export default function PracticeSession({ set, language, onCardReviewed }) {
   return (
     <section className="practice-page" aria-label={`${set.name} practice session`}>
       {deck.length === 0 ? (
-        <p>This set has no words yet.</p>
+        <div className="practice-empty" role="status">
+          <p>This set has no words yet.</p>
+          <Link to="/">Return home</Link>
+        </div>
       ) : word ? (
         <div className="flashcard-session">
           <div className="flashcard-progress" id="flashcard-progress" aria-live="polite" aria-atomic="true">
@@ -111,9 +115,9 @@ export default function PracticeSession({ set, language, onCardReviewed }) {
             {reviewedCount.toLocaleString()} of {deck.length.toLocaleString()} words reviewed
           </p>
           <div className="practice-complete__actions">
-            <a className="practice-complete__button practice-complete__button--home" href="#/">
+            <Link className="practice-complete__button practice-complete__button--home" to="/">
               Home
-            </a>
+            </Link>
             <button
               className="practice-complete__button practice-complete__button--again"
               type="button"
@@ -126,7 +130,7 @@ export default function PracticeSession({ set, language, onCardReviewed }) {
       )}
       {word && (
         <div className="flashcard-controls">
-          <a className="flashcard-controls__home" href="#/" aria-label="Return home">Home</a>
+          <Link className="flashcard-controls__home" to="/" aria-label="Return home">Home</Link>
           <div className="flashcard-controls__navigation">
             <button
               className="flashcard-controls__button"
