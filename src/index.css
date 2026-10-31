@@ -243,7 +243,7 @@ body:has(.site-sidebar[open]) {
 
 .practice-set-search {
   width: min(100%, 32rem);
-  margin: 0 auto 1.5rem;
+  margin: 0 auto 1rem;
 }
 
 .practice-set-search__input {
@@ -271,7 +271,7 @@ body:has(.site-sidebar[open]) {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
-  margin: 0 0 1.5rem;
+  margin: 0 0 1rem;
   padding: 0;
   border: 0;
 }
