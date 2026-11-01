@@ -16,7 +16,7 @@ starting path is:
 ## What this project does
 
 Phở-netics is a client-side website for practicing Vietnamese vocabulary with
-flashcards. It has a home page containing practice-set cards, a dialog for
+flashcards. It has a landing page, a practice-set browser, a dialog for
 choosing a practice direction, a flashcard session, and a settings dialog for
 the color theme.
 
@@ -125,7 +125,8 @@ The router is configured in `App.jsx`:
 
 | URL | Result |
 | --- | --- |
-| `/` | Home page and practice-set grid |
+| `/` | Landing page |
+| `/sets` | Practice-set browser |
 | `/practice/top_100_words?language=english` | English-first session for that set |
 | `/practice/top_100_words?language=vietnamese` | Vietnamese-first session for that set |
 | Any unmatched URL | Page-not-found content |
@@ -196,7 +197,7 @@ when a user opens the site.
 
 - `name` is displayed in the grid and dialog.
 - `tagId` connects this definition to words' `tags`.
-- `difficulty` is used by the home-page difficulty filters.
+- `difficulty` is used by the practice-set browser's difficulty filters.
 - `description` is shown on the card and in the dialog.
 
 The set ID used in the URL is also the set's `tagId`. Therefore each definition
@@ -241,7 +242,7 @@ workflow must be added.
 
 This is the path from selecting a set to reviewing a word:
 
-1. `HomePage` receives the prepared, filtered set list from `App`.
+1. `SetList` at `/sets` receives the prepared, filtered set list from `App`.
 2. It renders a `PracticeSetCard` for each set.
 3. Clicking a card calls its `onSelect` prop with that set.
 4. `App` stores the selected set in `selectedSet` state.
@@ -264,7 +265,7 @@ needs through props and can request changes by calling callback props.
 | Selected practice set | `App` | Determines whether the set dialog is open and what it displays |
 | Sidebar open/closed | `App` | Controls the settings dialog |
 | Selected difficulties | `App` | Controls which sets pass the difficulty filter |
-| Search query | `App` | Controls the home-page search and visible results |
+| Search query | `App` | Controls the practice-set browser search and visible results |
 | Reviewed-card total | `App` | Shared count displayed in the header and persisted across reloads |
 | Theme | `App` | Controls the document's `data-theme` attribute and persisted preference |
 | Shuffled deck | `PracticeSession` | Keeps the randomized order for this practice session |
@@ -272,7 +273,7 @@ needs through props and can request changes by calling callback props.
 | Flipped state | `PracticeSession` | Chooses which language side is visible |
 | Reviewed word IDs | `PracticeSession` | Prevents a word being counted twice in one session |
 
-The home-page search and filter controls are examples of **controlled inputs**:
+The practice-set browser search and filter controls are examples of **controlled inputs**:
 their current values come from React state, and their change handlers ask
 `App` to update that state. React then renders the results using the new values.
 
@@ -397,15 +398,16 @@ is visible if it matches the current search text and either no difficulty
 filter is selected or its difficulty is selected. With only seven current
 sets, recalculating this small list is simple and does not need memoization.
 
-#### `src/components/homePage.jsx`
+#### `src/Pages/LandingPage.jsx`
 
-Renders the home page's heading, search field, difficulty buttons, set grid,
+Renders the welcome page at `/` and links to the practice-set browser.
+
+#### `src/Pages/SetList.jsx`
+
+Renders the practice-set browser's search field, difficulty buttons, set grid,
 and no-results message. It does not own those values: `App` passes them as
 props. Each difficulty button reports a click through `onToggleDifficulty`;
 the search field reports its new text through `onSearchQueryChange`.
-
-The filename currently uses a lowercase `h`. Import paths must use the exact
-filename casing, especially for deployments on case-sensitive filesystems.
 
 #### `src/components/PracticeSetCard.jsx`
 
@@ -604,14 +606,14 @@ another browser, device, or user account.
 2. Give it a unique `tagId`, name, difficulty, description, and optional image.
 3. Add that tag to each vocabulary record that belongs to the new set.
 4. `createPracticeSets` automatically creates the set from the shared data.
-5. The existing home page will display it; no per-set JSX is needed.
+5. The practice-set browser will display it; no per-set JSX is needed.
 
 An empty set is allowed in the current data flow, but its dialog will not show
 language buttons and the practice page has a return-home message.
 
 ### Add a page
 
-1. Create a component under `src/components/` that renders the new page.
+1. Create a page component under `src/Pages/` that renders the new page.
 2. Import it in `src/App.jsx`.
 3. Add a `<Route path="..." element={<YourPage />} />` inside `<Routes>`.
 4. Use `<Link to="...">` for in-app links, or `useNavigate()` for a navigation

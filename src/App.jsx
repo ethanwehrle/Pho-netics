@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Link, Route, Routes, useNavigate, useParams, useSearchParams } from 'react-router-dom';
-import HomePage from './components/homePage.jsx';
+import LandingPage from './Pages/LandingPage.jsx';
+import SetList from './Pages/SetList.jsx';
 import PracticeSession from './components/PracticeSession.jsx';
 import SetDialog from './components/SetDialog.jsx';
 import SiteSidebar from './components/SiteSidebar.jsx';
@@ -135,10 +136,11 @@ export default function App() {
       />
       <main className="app">
         <Routes>
+          <Route path="/" element={<LandingPage />} />
           <Route
-            path="/"
+            path="/sets"
             element={
-              <HomePage
+              <SetList
                 difficultyLevels={difficultyLevels}
                 filteredPracticeSets={filteredPracticeSets}
                 onSearchQueryChange={setSetSearchQuery}

@@ -1,6 +1,6 @@
-import PracticeSetCard from './PracticeSetCard.jsx';
+import PracticeSetCard from '../components/PracticeSetCard.jsx';
 
-export default function HomePage({
+export default function SetList({
   difficultyLevels,
   filteredPracticeSets,
   onSearchQueryChange,

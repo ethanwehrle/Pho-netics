@@ -26,10 +26,10 @@ This is a client-side single-page application served and bundled by Vite:
   set has a `name`, `tagId`, `difficulty`, and `description`.
 - `vite.config.js` configures Vite and its React plugin.
 
-The app uses browser-history URLs: `/` for the home page and
-`/practice/<set-id>?language=english` (or `vietnamese`) for practice. Production
-hosting must serve `index.html` for unknown paths so direct links and refreshes
-on client-side routes reach the app.
+The app uses browser-history URLs: `/` for the landing page, `/sets` for the
+practice-set browser, and `/practice/<set-id>?language=english` (or
+`vietnamese`) for practice. Production hosting must serve `index.html` for
+unknown paths so direct links and refreshes on client-side routes reach the app.
 
 The app creates a practice set by selecting master-list entries whose `tags`
 array includes the set's `tagId`. Add a set definition to `sets.json` to add
