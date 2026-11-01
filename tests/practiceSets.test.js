@@ -1,6 +1,13 @@
 import assert from 'node:assert/strict';
 import test from 'node:test';
-import { createPracticeSets } from '../src/data/practiceSets.js';
+import { createPracticeSets, normalizeDifficulty } from '../src/data/practiceSets.js';
+
+test('normalizes set difficulties for filtering', () => {
+  assert.equal(normalizeDifficulty('Easy'), 'easy');
+  assert.equal(normalizeDifficulty('Medium'), 'medium');
+  assert.equal(normalizeDifficulty('Moderate'), 'medium');
+  assert.equal(normalizeDifficulty('Hard'), 'hard');
+});
 
 test('creates sets from shared word tags in vocabulary order', () => {
   const words = [

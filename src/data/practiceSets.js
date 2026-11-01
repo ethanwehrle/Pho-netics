@@ -1,3 +1,8 @@
+export function normalizeDifficulty(difficulty) {
+  const normalizedDifficulty = difficulty.trim().toLowerCase();
+  return normalizedDifficulty === 'moderate' ? 'medium' : normalizedDifficulty;
+}
+
 export function createPracticeSets(setDefinitions, masterWords) {
   const wordsByTag = new Map();
 

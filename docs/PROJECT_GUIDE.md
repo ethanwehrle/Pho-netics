@@ -196,7 +196,8 @@ when a user opens the site.
 
 - `name` is displayed in the grid and dialog.
 - `tagId` connects this definition to words' `tags`.
-- `difficulty` is used by the home-page difficulty filters.
+- `difficulty` is used by the home-page difficulty filters, case-insensitively;
+  `Moderate` is treated as `Medium`.
 - `description` is shown on the card and in the dialog.
 
 The set ID used in the URL is also the set's `tagId`. Therefore each definition
