@@ -8,7 +8,7 @@ import SiteSidebar from './components/SiteSidebar.jsx';
 import SiteHeader from './components/SiteHeader.jsx';
 import masterWords from '../data/master_words_list.json';
 import setDefinitions from '../data/metadata/sets.json';
-import { createPracticeSets } from './data/practiceSets.js';
+import { createPracticeSets, normalizeDifficulty } from './data/practiceSets.js';
 
 const practiceSets = createPracticeSets(setDefinitions, masterWords);
 
@@ -77,7 +77,8 @@ export default function App() {
   const [theme, setTheme] = useState(readSavedTheme);
   const normalizedSearchQuery = setSearchQuery.trim().toLowerCase();
   const filteredPracticeSets = practiceSets.filter((set) => {
-    const matchesDifficulty = selectedDifficulties.size === 0 || selectedDifficulties.has(set.difficulty);
+    const matchesDifficulty = selectedDifficulties.size === 0
+      || selectedDifficulties.has(normalizeDifficulty(set.difficulty));
     const matchesSearch = set.name.toLowerCase().includes(normalizedSearchQuery);
     return matchesDifficulty && matchesSearch;
   });
