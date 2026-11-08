@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Link, Route, Routes, useNavigate, useParams, useSearchParams } from 'react-router-dom';
+import { Link, Route, Routes, useLocation, useNavigate, useParams, useSearchParams } from 'react-router-dom';
 import LandingPage from './Pages/LandingPage.jsx';
 import SetList from './Pages/SetList.jsx';
 import PracticeSession from './components/PracticeSession.jsx';
@@ -68,6 +68,7 @@ function NotFoundPage() {
 }
 
 export default function App() {
+  const location = useLocation();
   const navigate = useNavigate();
   const [selectedSet, setSelectedSet] = useState(null);
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
@@ -82,6 +83,10 @@ export default function App() {
     const matchesSearch = set.name.toLowerCase().includes(normalizedSearchQuery);
     return matchesDifficulty && matchesSearch;
   });
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location.key]);
+
   useEffect(() => {
     document.documentElement.dataset.theme = theme;
 

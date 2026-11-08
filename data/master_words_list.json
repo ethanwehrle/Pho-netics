@@ -5,7 +5,11 @@
     "english": "older brother",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000002",
@@ -13,7 +17,11 @@
     "english": "older sister",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000003",
@@ -21,7 +29,11 @@
     "english": "younger brother ỏ síter",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000004",
@@ -29,7 +41,11 @@
     "english": "I",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000005",
@@ -37,7 +53,11 @@
     "english": "teacher",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000006",
@@ -45,7 +65,11 @@
     "english": "friend",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000007",
@@ -53,7 +77,11 @@
     "english": "close friend",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000008",
@@ -61,7 +89,11 @@
     "english": "girlfriend",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000009",
@@ -69,7 +101,11 @@
     "english": "boyfriend",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000010",
@@ -77,7 +113,11 @@
     "english": "wife",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000011",
@@ -85,7 +125,11 @@
     "english": "father",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000012",
@@ -93,7 +137,11 @@
     "english": "mother",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000013",
@@ -101,7 +149,11 @@
     "english": "parents",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000014",
@@ -109,7 +161,11 @@
     "english": "younger brother",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000015",
@@ -117,7 +173,11 @@
     "english": "he",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000016",
@@ -125,7 +185,11 @@
     "english": "she",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000017",
@@ -133,7 +197,11 @@
     "english": "fiancée",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000018",
@@ -141,7 +209,11 @@
     "english": "uncle",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000019",
@@ -149,7 +221,11 @@
     "english": "aunt",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000020",
@@ -157,7 +233,11 @@
     "english": "chồng",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000021",
@@ -165,7 +245,11 @@
     "english": "grandma",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000022",
@@ -173,7 +257,11 @@
     "english": "grandpa",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000023",
@@ -181,7 +269,11 @@
     "english": "child",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000024",
@@ -189,7 +281,11 @@
     "english": "son",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000025",
@@ -197,7 +293,11 @@
     "english": "daughter",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000026",
@@ -205,7 +305,11 @@
     "english": "grandchild",
     "tags": [
       "pronouns"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000027",
@@ -213,7 +317,11 @@
     "english": "hello/goodbye",
     "tags": [
       "basics"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000028",
@@ -221,7 +329,11 @@
     "english": "thank you",
     "tags": [
       "basics"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000029",
@@ -229,7 +341,11 @@
     "english": "fine",
     "tags": [
       "basics"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000030",
@@ -237,7 +353,11 @@
     "english": "also",
     "tags": [
       "basics"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000031",
@@ -245,7 +365,11 @@
     "english": "yes",
     "tags": [
       "basics"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000032",
@@ -253,7 +377,11 @@
     "english": "no / don't",
     "tags": [
       "basics"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000033",
@@ -261,7 +389,11 @@
     "english": "name",
     "tags": [
       "basics"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000034",
@@ -269,7 +401,11 @@
     "english": "to be",
     "tags": [
       "basics"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000035",
@@ -277,7 +413,11 @@
     "english": "of",
     "tags": [
       "basics"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000036",
@@ -285,7 +425,11 @@
     "english": "and",
     "tags": [
       "basics"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000037",
@@ -293,7 +437,11 @@
     "english": "sorry",
     "tags": [
       "basics"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000038",
@@ -301,7 +449,11 @@
     "english": "to depart",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000039",
@@ -309,7 +461,11 @@
     "english": "to live",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000040",
@@ -317,7 +473,11 @@
     "english": "to learn",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000041",
@@ -325,7 +485,11 @@
     "english": "to love",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000042",
@@ -333,7 +497,11 @@
     "english": "to like",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000043",
@@ -341,7 +509,11 @@
     "english": "to drink",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000044",
@@ -349,7 +521,11 @@
     "english": "to eat",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000045",
@@ -357,7 +533,11 @@
     "english": "to start",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000046",
@@ -365,7 +545,11 @@
     "english": "to have",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000047",
@@ -373,7 +557,11 @@
     "english": "to wake up",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000048",
@@ -381,7 +569,11 @@
     "english": "to sleep",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000049",
@@ -389,7 +581,11 @@
     "english": "to go",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000050",
@@ -397,7 +593,11 @@
     "english": "to practice",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000051",
@@ -405,7 +605,11 @@
     "english": "to work",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000052",
@@ -413,7 +617,11 @@
     "english": "to study",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000053",
@@ -421,7 +629,11 @@
     "english": "to play",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000054",
@@ -429,7 +641,11 @@
     "english": "to listen",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000055",
@@ -437,7 +653,11 @@
     "english": "to watch",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000056",
@@ -445,7 +665,11 @@
     "english": "to cook",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000057",
@@ -453,7 +677,11 @@
     "english": "to do",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000058",
@@ -461,7 +689,11 @@
     "english": "to return",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000059",
@@ -469,7 +701,11 @@
     "english": "to shower",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000060",
@@ -477,7 +713,11 @@
     "english": "to buy",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000061",
@@ -485,7 +725,11 @@
     "english": "to sell",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000062",
@@ -493,7 +737,11 @@
     "english": "to read",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000063",
@@ -501,7 +749,11 @@
     "english": "to run",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000064",
@@ -509,7 +761,11 @@
     "english": "to walk",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000065",
@@ -517,7 +773,11 @@
     "english": "to dance",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000066",
@@ -525,7 +785,11 @@
     "english": "to understand",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000067",
@@ -533,7 +797,11 @@
     "english": "to draw/paint",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000068",
@@ -541,7 +809,11 @@
     "english": "to speak",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000069",
@@ -549,7 +821,11 @@
     "english": "to know",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000070",
@@ -557,7 +833,11 @@
     "english": "to want",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000071",
@@ -565,7 +845,11 @@
     "english": "to give",
     "tags": [
       "verbs"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000072",
@@ -573,7 +857,11 @@
     "english": "school",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000073",
@@ -581,7 +869,11 @@
     "english": "company",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000074",
@@ -589,7 +881,11 @@
     "english": "supermarket",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000075",
@@ -597,7 +893,11 @@
     "english": "city",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000076",
@@ -605,7 +905,11 @@
     "english": "home",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000077",
@@ -613,7 +917,11 @@
     "english": "bank",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000078",
@@ -621,7 +929,11 @@
     "english": "restaurant",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000079",
@@ -629,7 +941,11 @@
     "english": "hotel",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000080",
@@ -637,7 +953,11 @@
     "english": "library",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000081",
@@ -645,7 +965,11 @@
     "english": "pharmacy",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000082",
@@ -653,7 +977,11 @@
     "english": "church",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000083",
@@ -661,7 +989,11 @@
     "english": "airport",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000084",
@@ -669,7 +1001,11 @@
     "english": "gas station",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000085",
@@ -677,7 +1013,11 @@
     "english": "subway station",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000086",
@@ -685,7 +1025,11 @@
     "english": "hospital",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000087",
@@ -693,7 +1037,11 @@
     "english": "store",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000088",
@@ -701,7 +1049,11 @@
     "english": "theatre",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000089",
@@ -709,7 +1061,11 @@
     "english": "university",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000090",
@@ -717,7 +1073,11 @@
     "english": "zoo",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000091",
@@ -725,7 +1085,11 @@
     "english": "neighborhood",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000092",
@@ -733,7 +1097,11 @@
     "english": "post office",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000093",
@@ -741,7 +1109,11 @@
     "english": "park",
     "tags": [
       "places"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000094",
@@ -749,7 +1121,11 @@
     "english": "coffee",
     "tags": [
       "drinks"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000095",
@@ -757,7 +1133,11 @@
     "english": "tea",
     "tags": [
       "drinks"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000096",
@@ -765,7 +1145,11 @@
     "english": "beer",
     "tags": [
       "drinks"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000097",
@@ -773,7 +1157,11 @@
     "english": "water",
     "tags": [
       "drinks"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000098",
@@ -781,7 +1169,11 @@
     "english": "milk",
     "tags": [
       "drinks"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000099",
@@ -789,7 +1181,11 @@
     "english": "ice",
     "tags": [
       "drinks"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000100",
@@ -797,7 +1193,11 @@
     "english": "hot",
     "tags": [
       "drinks"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000101",
@@ -805,7 +1205,11 @@
     "english": "alcohol",
     "tags": [
       "drinks"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000102",
@@ -813,7 +1217,11 @@
     "english": "cooked rice",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000103",
@@ -821,7 +1229,11 @@
     "english": "beef",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000104",
@@ -829,7 +1241,11 @@
     "english": "pork",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000105",
@@ -837,7 +1253,11 @@
     "english": "chicken",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000106",
@@ -845,7 +1265,11 @@
     "english": "fish",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000107",
@@ -853,7 +1277,11 @@
     "english": "shrimp",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000108",
@@ -861,7 +1289,11 @@
     "english": "squid",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000109",
@@ -869,7 +1301,11 @@
     "english": "vegetable",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000110",
@@ -877,7 +1313,11 @@
     "english": "fruit",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000111",
@@ -885,7 +1325,11 @@
     "english": "apple",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000112",
@@ -893,7 +1337,11 @@
     "english": "grapes",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000113",
@@ -901,7 +1349,11 @@
     "english": "kiwi",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000114",
@@ -909,7 +1361,11 @@
     "english": "noodles, pasta",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000115",
@@ -917,7 +1373,11 @@
     "english": "bread",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000116",
@@ -925,7 +1385,11 @@
     "english": "cake",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000117",
@@ -933,7 +1397,11 @@
     "english": "ice cream",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000118",
@@ -941,7 +1409,11 @@
     "english": "soup",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000119",
@@ -949,7 +1421,11 @@
     "english": "meat",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000120",
@@ -957,7 +1433,11 @@
     "english": "seafood",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000121",
@@ -965,7 +1445,11 @@
     "english": "egg",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000122",
@@ -973,7 +1457,11 @@
     "english": "sausage",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000123",
@@ -981,7 +1469,11 @@
     "english": "uncooked rice",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000124",
@@ -989,7 +1481,11 @@
     "english": "candy",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000125",
@@ -997,7 +1493,11 @@
     "english": "hotpot",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000126",
@@ -1005,7 +1505,11 @@
     "english": "vermicelli",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000127",
@@ -1013,7 +1517,11 @@
     "english": "banana",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000128",
@@ -1021,7 +1529,11 @@
     "english": "oil",
     "tags": [
       "food"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000129",
@@ -1029,7 +1541,11 @@
     "english": "fish sauce",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000130",
@@ -1037,7 +1553,11 @@
     "english": "soy sauce",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000131",
@@ -1045,7 +1565,11 @@
     "english": "chili sauce",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000132",
@@ -1053,7 +1577,11 @@
     "english": "salt",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000133",
@@ -1061,7 +1589,11 @@
     "english": "pepper",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000134",
@@ -1069,7 +1601,11 @@
     "english": "lemon",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000135",
@@ -1077,7 +1613,11 @@
     "english": "chili",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000136",
@@ -1085,7 +1625,11 @@
     "english": "garlic",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000137",
@@ -1093,7 +1637,11 @@
     "english": "ginger",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000138",
@@ -1101,7 +1649,11 @@
     "english": "shallots",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000139",
@@ -1109,7 +1661,11 @@
     "english": "onion",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000140",
@@ -1117,7 +1673,11 @@
     "english": "green onion",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000141",
@@ -1125,7 +1685,11 @@
     "english": "sour",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000142",
@@ -1133,7 +1697,11 @@
     "english": "spicy",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000143",
@@ -1141,7 +1709,11 @@
     "english": "salty",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000144",
@@ -1149,7 +1721,11 @@
     "english": "sweet",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000145",
@@ -1157,7 +1733,11 @@
     "english": "bitter",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000146",
@@ -1165,7 +1745,11 @@
     "english": "bland",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000147",
@@ -1173,7 +1757,11 @@
     "english": "tasty, delicious",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000148",
@@ -1181,7 +1769,11 @@
     "english": "bad taste",
     "tags": [
       "food_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000149",
@@ -1189,7 +1781,11 @@
     "english": "fried, to fry",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000150",
@@ -1197,7 +1793,11 @@
     "english": "stir-fried, to stir dry",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000151",
@@ -1205,7 +1805,11 @@
     "english": "steamed, to steam",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000152",
@@ -1213,7 +1817,11 @@
     "english": "boiled, to boil",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000153",
@@ -1221,7 +1829,11 @@
     "english": "grilled, to grill",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000154",
@@ -1229,7 +1841,11 @@
     "english": "roasted, to roast",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000155",
@@ -1237,7 +1853,11 @@
     "english": "braised, to braise",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000156",
@@ -1245,7 +1865,11 @@
     "english": "to mix",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000157",
@@ -1253,7 +1877,11 @@
     "english": "to stir",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000158",
@@ -1261,7 +1889,11 @@
     "english": "to blend, grind",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000159",
@@ -1269,7 +1901,11 @@
     "english": "to mince",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000160",
@@ -1277,7 +1913,11 @@
     "english": "to cut",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000161",
@@ -1285,7 +1925,11 @@
     "english": "to peel",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000162",
@@ -1293,7 +1937,11 @@
     "english": "to smash",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000163",
@@ -1301,7 +1949,11 @@
     "english": "to squeeze",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000164",
@@ -1309,7 +1961,11 @@
     "english": "to wash",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000165",
@@ -1317,7 +1973,11 @@
     "english": "to defrost",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000166",
@@ -1325,7 +1985,11 @@
     "english": "to soak",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000167",
@@ -1333,7 +1997,11 @@
     "english": "to marinade",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000168",
@@ -1341,7 +2009,11 @@
     "english": "to add",
     "tags": [
       "cooking"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000169",
@@ -1349,7 +2021,11 @@
     "english": "house",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000170",
@@ -1357,7 +2033,11 @@
     "english": "room",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000171",
@@ -1365,7 +2045,11 @@
     "english": "bedroom",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000172",
@@ -1373,7 +2057,11 @@
     "english": "bathroom",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000173",
@@ -1381,7 +2069,11 @@
     "english": "living room",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000174",
@@ -1389,7 +2081,11 @@
     "english": "kitchen",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000175",
@@ -1397,7 +2093,11 @@
     "english": "chair",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000176",
@@ -1405,7 +2105,11 @@
     "english": "house",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000177",
@@ -1413,7 +2117,11 @@
     "english": "couch, sofa",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000178",
@@ -1421,7 +2129,11 @@
     "english": "fridge",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000179",
@@ -1429,7 +2141,11 @@
     "english": "washer",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000180",
@@ -1437,7 +2153,11 @@
     "english": "dryer",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000181",
@@ -1445,7 +2165,11 @@
     "english": "oven",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000182",
@@ -1453,7 +2177,11 @@
     "english": "dishwasher",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000183",
@@ -1461,7 +2189,11 @@
     "english": "pot",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000184",
@@ -1469,7 +2201,11 @@
     "english": "pan",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000185",
@@ -1477,7 +2213,11 @@
     "english": "spoon",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000186",
@@ -1485,7 +2225,11 @@
     "english": "chopsticks",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000187",
@@ -1493,7 +2237,11 @@
     "english": "terrace, roof top",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000188",
@@ -1501,7 +2249,11 @@
     "english": "blanket",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000189",
@@ -1509,7 +2261,11 @@
     "english": "pillow",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000190",
@@ -1517,7 +2273,11 @@
     "english": "curtain",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000191",
@@ -1525,7 +2285,11 @@
     "english": "clock",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000192",
@@ -1533,7 +2297,11 @@
     "english": "rug, carpet",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000193",
@@ -1541,7 +2309,11 @@
     "english": "bed",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000194",
@@ -1549,7 +2321,11 @@
     "english": "key",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000195",
@@ -1557,7 +2333,11 @@
     "english": "dining room",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000196",
@@ -1565,7 +2345,11 @@
     "english": "garage",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000197",
@@ -1573,7 +2357,11 @@
     "english": "garden",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000198",
@@ -1581,7 +2369,11 @@
     "english": "rice cooker",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000199",
@@ -1589,7 +2381,11 @@
     "english": "kettle",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000200",
@@ -1597,7 +2393,11 @@
     "english": "closet",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000201",
@@ -1605,7 +2405,11 @@
     "english": "microwave",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000202",
@@ -1613,7 +2417,11 @@
     "english": "lamp",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000203",
@@ -1621,7 +2429,11 @@
     "english": "garbage bin",
     "tags": [
       "house"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000204",
@@ -1629,7 +2441,11 @@
     "english": "vehicle",
     "tags": [
       "transportation"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000205",
@@ -1637,7 +2453,11 @@
     "english": "car",
     "tags": [
       "transportation"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000206",
@@ -1645,7 +2465,11 @@
     "english": "motorbike",
     "tags": [
       "transportation"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000207",
@@ -1653,7 +2477,11 @@
     "english": "bike",
     "tags": [
       "transportation"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000208",
@@ -1661,7 +2489,11 @@
     "english": "subway",
     "tags": [
       "transportation"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000209",
@@ -1669,7 +2501,11 @@
     "english": "train",
     "tags": [
       "transportation"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000210",
@@ -1677,7 +2513,11 @@
     "english": "airplane",
     "tags": [
       "transportation"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000211",
@@ -1685,7 +2525,11 @@
     "english": "bus",
     "tags": [
       "transportation"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000212",
@@ -1693,7 +2537,11 @@
     "english": "bus station",
     "tags": [
       "transportation"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000213",
@@ -1701,7 +2549,11 @@
     "english": "o'clock",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000214",
@@ -1709,7 +2561,11 @@
     "english": "day",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000215",
@@ -1717,7 +2573,11 @@
     "english": "month",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000216",
@@ -1725,7 +2585,11 @@
     "english": "year",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000217",
@@ -1733,7 +2597,11 @@
     "english": "minute",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000218",
@@ -1741,7 +2609,11 @@
     "english": "hour",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000219",
@@ -1749,7 +2621,11 @@
     "english": "monday",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000220",
@@ -1757,7 +2633,11 @@
     "english": "tuesday",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000221",
@@ -1765,7 +2645,11 @@
     "english": "wednesday",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000222",
@@ -1773,7 +2657,11 @@
     "english": "thursday",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000223",
@@ -1781,7 +2669,11 @@
     "english": "friday",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000224",
@@ -1789,7 +2681,11 @@
     "english": "saturday",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000225",
@@ -1797,7 +2693,11 @@
     "english": "sunday",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000226",
@@ -1805,7 +2705,11 @@
     "english": "january",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000227",
@@ -1813,7 +2717,11 @@
     "english": "february",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000228",
@@ -1821,7 +2729,11 @@
     "english": "march",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000229",
@@ -1829,7 +2741,11 @@
     "english": "april",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000230",
@@ -1837,7 +2753,11 @@
     "english": "may",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000231",
@@ -1845,7 +2765,11 @@
     "english": "june",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000232",
@@ -1853,7 +2777,11 @@
     "english": "july",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000233",
@@ -1861,7 +2789,11 @@
     "english": "august",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000234",
@@ -1869,7 +2801,11 @@
     "english": "september",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000235",
@@ -1877,7 +2813,11 @@
     "english": "october",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000236",
@@ -1885,7 +2825,11 @@
     "english": "november",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000237",
@@ -1893,7 +2837,11 @@
     "english": "december",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000238",
@@ -1901,7 +2849,11 @@
     "english": "week",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000239",
@@ -1909,7 +2861,11 @@
     "english": "second",
     "tags": [
       "time"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000240",
@@ -1917,7 +2873,11 @@
     "english": "after that",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000241",
@@ -1925,7 +2885,11 @@
     "english": "tonight",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000242",
@@ -1933,7 +2897,11 @@
     "english": "this morning",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000243",
@@ -1941,7 +2909,11 @@
     "english": "tomorrow",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000244",
@@ -1949,7 +2921,11 @@
     "english": "tomorrow",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000245",
@@ -1957,7 +2933,11 @@
     "english": "tomorrow noon",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000246",
@@ -1965,7 +2945,11 @@
     "english": "tomorrow evening",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000247",
@@ -1973,7 +2957,11 @@
     "english": "noon today",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000248",
@@ -1981,7 +2969,11 @@
     "english": "afternoon today",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000249",
@@ -1989,7 +2981,11 @@
     "english": "afternoon today",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000250",
@@ -1997,7 +2993,11 @@
     "english": "tomorrow afternoon",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000251",
@@ -2005,7 +3005,11 @@
     "english": "evening",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000252",
@@ -2013,7 +3017,11 @@
     "english": "day (daylight)",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000253",
@@ -2021,7 +3029,11 @@
     "english": "half (time) - e.g: half past 2pm",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000254",
@@ -2029,7 +3041,11 @@
     "english": "missing (time) - e.g: 10 minutes to 2pm",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000255",
@@ -2037,7 +3053,11 @@
     "english": "today",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000256",
@@ -2045,7 +3065,11 @@
     "english": "before",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000257",
@@ -2053,7 +3077,11 @@
     "english": "next week",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000258",
@@ -2061,7 +3089,11 @@
     "english": "before (for year only)",
     "tags": [
       "time_two"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000259",
@@ -2069,7 +3101,11 @@
     "english": "happy",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000260",
@@ -2077,7 +3113,11 @@
     "english": "sad",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000261",
@@ -2085,7 +3125,11 @@
     "english": "hungry",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000262",
@@ -2093,7 +3137,11 @@
     "english": "tired",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000263",
@@ -2101,7 +3149,11 @@
     "english": "excited",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000264",
@@ -2109,7 +3161,11 @@
     "english": "hopeful",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000265",
@@ -2117,7 +3173,11 @@
     "english": "healthy",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000266",
@@ -2125,7 +3185,11 @@
     "english": "confident",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000267",
@@ -2133,7 +3197,11 @@
     "english": "carefree",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000268",
@@ -2141,7 +3209,11 @@
     "english": "worried",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000269",
@@ -2149,7 +3221,11 @@
     "english": "angry",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000270",
@@ -2157,7 +3233,11 @@
     "english": "annoyed",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000271",
@@ -2165,7 +3245,11 @@
     "english": "disappointed",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000272",
@@ -2173,7 +3257,11 @@
     "english": "happy (deep happiness)",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000273",
@@ -2181,7 +3269,11 @@
     "english": "scared",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000274",
@@ -2189,7 +3281,11 @@
     "english": "homesick",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000275",
@@ -2197,7 +3293,11 @@
     "english": "lazy",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000276",
@@ -2205,7 +3305,11 @@
     "english": "bored",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000277",
@@ -2213,7 +3317,11 @@
     "english": "drunk",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000278",
@@ -2221,7 +3329,11 @@
     "english": "embarassed",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000279",
@@ -2229,7 +3341,11 @@
     "english": "sleepy",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000280",
@@ -2237,7 +3353,11 @@
     "english": "sober",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000281",
@@ -2245,7 +3365,11 @@
     "english": "thirsty",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000282",
@@ -2253,7 +3377,11 @@
     "english": "weak",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000283",
@@ -2261,7 +3389,11 @@
     "english": "upset",
     "tags": [
       "emotions"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000284",
@@ -2269,7 +3401,11 @@
     "english": "yellow",
     "tags": [
       "color"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000285",
@@ -2277,7 +3413,11 @@
     "english": "red",
     "tags": [
       "color"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000286",
@@ -2285,7 +3425,11 @@
     "english": "blue or green (depend on situation)",
     "tags": [
       "color"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000287",
@@ -2293,7 +3437,11 @@
     "english": "orange",
     "tags": [
       "color"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000288",
@@ -2301,7 +3449,11 @@
     "english": "green",
     "tags": [
       "color"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000289",
@@ -2309,7 +3461,11 @@
     "english": "blue",
     "tags": [
       "color"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000290",
@@ -2317,7 +3473,11 @@
     "english": "pink",
     "tags": [
       "color"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000291",
@@ -2325,7 +3485,11 @@
     "english": "purple",
     "tags": [
       "color"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000292",
@@ -2333,7 +3497,11 @@
     "english": "black",
     "tags": [
       "color"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000293",
@@ -2341,7 +3509,11 @@
     "english": "white",
     "tags": [
       "color"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000294",
@@ -2349,7 +3521,11 @@
     "english": "grey",
     "tags": [
       "color"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000295",
@@ -2357,7 +3533,11 @@
     "english": "1",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000296",
@@ -2365,7 +3545,11 @@
     "english": "2",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000297",
@@ -2373,7 +3557,11 @@
     "english": "3",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000298",
@@ -2381,7 +3569,11 @@
     "english": "4",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000299",
@@ -2389,7 +3581,11 @@
     "english": "5",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000300",
@@ -2397,7 +3593,11 @@
     "english": "6",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000301",
@@ -2405,7 +3605,11 @@
     "english": "7",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000302",
@@ -2413,7 +3617,11 @@
     "english": "8",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000303",
@@ -2421,7 +3629,11 @@
     "english": "9",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000304",
@@ -2429,7 +3641,11 @@
     "english": "10",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000305",
@@ -2437,7 +3653,11 @@
     "english": "11",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000306",
@@ -2445,7 +3665,11 @@
     "english": "20",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000307",
@@ -2453,7 +3677,11 @@
     "english": "30",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000308",
@@ -2461,7 +3689,11 @@
     "english": "40",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000309",
@@ -2469,7 +3701,11 @@
     "english": "50",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000310",
@@ -2477,7 +3713,11 @@
     "english": "60",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000311",
@@ -2485,7 +3725,11 @@
     "english": "70",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000312",
@@ -2493,7 +3737,11 @@
     "english": "80",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000313",
@@ -2501,7 +3749,11 @@
     "english": "90",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000314",
@@ -2509,7 +3761,11 @@
     "english": "100",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000315",
@@ -2517,7 +3773,11 @@
     "english": "500",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000316",
@@ -2525,7 +3785,11 @@
     "english": "15",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000317",
@@ -2533,7 +3797,11 @@
     "english": "95",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000318",
@@ -2541,7 +3809,11 @@
     "english": "1000s",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000319",
@@ -2549,7 +3821,11 @@
     "english": "1000",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000320",
@@ -2557,7 +3833,11 @@
     "english": "million - 1,000,000s",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000321",
@@ -2565,7 +3845,11 @@
     "english": "1000000",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000322",
@@ -2573,7 +3857,11 @@
     "english": "billion - 1,000,000,000s",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000323",
@@ -2581,7 +3869,11 @@
     "english": "1000000000",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000324",
@@ -2589,7 +3881,11 @@
     "english": "negative number",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000325",
@@ -2597,7 +3893,11 @@
     "english": "55",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   },
   {
     "id": "000326",
@@ -2605,6 +3905,10 @@
     "english": "hundred - 100s",
     "tags": [
       "numbers"
-    ]
+    ],
+    "audio": {
+      "vietnamese": null,
+      "english": null
+    }
   }
 ]

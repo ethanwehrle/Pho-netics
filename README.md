@@ -20,8 +20,6 @@ This is a client-side single-page application served and bundled by Vite:
 - `src/theme.css` defines the color, typography, and other design tokens.
 - `src/index.css` contains the global reset and page and card layout styles.
 - `data/master_words_list.json` is the vocabulary source loaded by the app.
-- `data/master_words_list.csv` is not loaded by the app; keep it synchronized
-  with the JSON file if it is maintained as an export.
 - `data/metadata/sets.json` defines the practice sets shown by the app. Each
   set has a `name`, `tagId`, `difficulty`, and `description`.
 - `vite.config.js` configures Vite and its React plugin.
@@ -34,7 +32,7 @@ unknown paths so direct links and refreshes on client-side routes reach the app.
 The app creates a practice set by selecting master-list entries whose `tags`
 array includes the set's `tagId`. Add a set definition to `sets.json` to add
 another list, and tag matching entries in the master word list. Word records
-use an `id`, `vietnamese`, `english`, and `tags` field, for example:
+use `id`, `vietnamese`, `english`, `tags`, and `audio` fields, for example:
 
 ```json
 [
@@ -42,10 +40,19 @@ use an `id`, `vietnamese`, `english`, and `tags` field, for example:
     "id": "000001",
     "vietnamese": "xin chào",
     "english": "hello",
-    "tags": ["top_1000_words"]
+    "tags": ["top_1000_words"],
+    "audio": {
+      "vietnamese": "/audio/000001-vietnamese.mp3",
+      "english": null
+    }
   }
 ]
 ```
+
+Place word recordings in `public/audio/` and use root-relative paths such as
+`/audio/000001-vietnamese.mp3` in the matching word's `audio` object. Use `null`
+when a recording is not available. The app does not yet include audio playback
+controls.
 
 Set definitions use this shape:
 
@@ -111,7 +118,7 @@ and then starts the local-only development server.
 | `npm run start:local` | Start the server bound to `127.0.0.1`. |
 | `npm run build` | Create the production build in `dist/`. |
 | `npm run preview` | Preview the production build locally after running the build. |
-| `npm test` | Run the built-in Node.js tests for practice-set data preparation. |
+| `npm test` | Run data-integrity and React interaction tests with Vitest. |
 
 Generated build output (`dist/`), installed dependencies (`node_modules/`), and
 environment files are excluded from version control.

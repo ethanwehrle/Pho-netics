@@ -167,7 +167,11 @@ catalog imported by the app. A word record has this shape:
   "id": "000001",
   "vietnamese": "xin chào",
   "english": "hello",
-  "tags": ["top_1000_words", "greetings"]
+  "tags": ["top_1000_words", "greetings"],
+  "audio": {
+    "vietnamese": "/audio/000001-vietnamese.mp3",
+    "english": null
+  }
 }
 ```
 
@@ -177,10 +181,16 @@ catalog imported by the app. A word record has this shape:
 - `english` is its English translation.
 - `tags` lists the practice sets that contain the word. One word can appear in
   multiple sets.
+- `audio.vietnamese` and `audio.english` contain root-relative paths to
+  recordings in `public/`, or `null` when no recording is available. For
+  example, `/audio/000001-vietnamese.mp3` maps to
+  `public/audio/000001-vietnamese.mp3`. Use the word ID and language in audio
+  filenames to keep them unique and easy to match with records.
 
-The current catalog contains 1,000 records. The app reads the JSON file at
-build time through a JavaScript import; it does not fetch the file over HTTP
-when a user opens the site.
+The app reads the JSON file at build time through a JavaScript import; it does
+not fetch the file over HTTP when a user opens the site. Vite copies files from
+`public/` to the build output without importing them into the JavaScript bundle.
+Audio playback controls are not implemented yet.
 
 ### Set definitions
 
@@ -219,7 +229,6 @@ The returned objects contain the original display fields plus:
 
 - `id`, copied from `tagId`, for React keys and route matching.
 - `words`, the complete matching word records.
-- `image`, guaranteed to have either the configured image or a placeholder.
 
 This indexing approach avoids scanning all words from the beginning for every
 set. Its work is proportional to the number of word-tag relationships plus the
@@ -227,16 +236,8 @@ number of set definitions, rather than doing a complete word-list scan for
 each set.
 
 [practiceSets.test.js](../tests/practiceSets.test.js) tests this function
-without rendering React. It verifies tag matching and order, the fallback
-image, and the empty-word-list case.
-
-### The CSV file
-
-[master_words_list.csv](../data/master_words_list.csv) is present as a data
-export, but the React app imports the JSON file, not the CSV. Editing the CSV
-alone does not change the site's vocabulary. If both files are intended to
-represent the same catalog, changes must be synchronized or a conversion
-workflow must be added.
+without rendering React. It verifies tag matching and order, along with the
+empty-word-list case.
 
 ## The practice flow
 
@@ -411,11 +412,10 @@ the search field reports its new text through `onSearchQueryChange`.
 
 #### `src/components/PracticeSetCard.jsx`
 
-Renders one set's name, word count, difficulty, image, and description.
+Renders one set's name, word count, difficulty, and description.
 `onSelect(set)` is called when its full-card button is activated. The button
 uses the accessible name and description from the neighboring text. The
-description overlay is shown on hover, keyboard focus, and touch-capable
-devices (CSS handles those presentation details).
+description is visible in the card.
 
 #### `src/components/SetDialog.jsx`
 
@@ -511,11 +511,11 @@ Contains the global reset and component presentation rules. Sections cover:
 - Global box sizing, root dimensions, page and header layout.
 - Header actions, settings sidebar, and theme controls.
 - Home page layout, search, difficulty filters, and responsive set grid.
-- Set cards, image sizing, description overlay, and keyboard focus.
+- Set cards, visible descriptions, and keyboard focus.
 - The set dialog and its language/cancel buttons.
 - Flashcard dimensions, 3D flip, navigation targets, and progress.
 - Practice completion and empty-set layouts.
-- Touch-device overlay behavior and reduced-motion preferences.
+- Reduced-motion preferences.
 
 Class names follow a component-oriented naming pattern such as
 `.practice-set-card__title`. The `__` portion groups an element with its
@@ -527,7 +527,6 @@ appearance.
 
 - `data/master_words_list.json`: vocabulary imported by the React app.
 - `data/metadata/sets.json`: set metadata and tag IDs.
-- `data/master_words_list.csv`: CSV export, not currently imported by the app.
 
 The data files are content, not React components. Their shape is important:
 the app expects each word's `tags` to be an array, and each set's `tagId` to
@@ -535,17 +534,17 @@ match those tag values.
 
 ### `tests/`: automated checks
 
-`tests/practiceSets.test.js` uses Node's built-in `node:test` and
-`node:assert/strict` modules. The tests exercise the standalone data helper,
-which keeps them fast and avoids needing to launch a browser or render React.
-Run them with:
+The tests use Vitest, React Testing Library, and jsdom. They cover practice-set
+preparation, the real vocabulary and set metadata, flashcard navigation,
+search and difficulty filters, route validation, browser-storage persistence,
+and dialog interactions. The DOM tests run without launching a separate
+browser. Run the suite with:
 
 ```sh
 npm test
 ```
 
-The suite currently covers data preparation. It does not yet include
-component-level or browser interaction tests.
+There are no end-to-end tests in a real browser yet.
 
 ### `dist/`: generated output
 
@@ -564,8 +563,7 @@ Some examples:
   selected, in addition to its visual selected style.
 - The practice set dialog and sidebar have labels linked to their headings.
 - Focus-visible outlines make keyboard focus easier to see.
-- The description overlay appears when the card is hovered or contains keyboard
-  focus, and is always visible on devices without hover.
+- Set descriptions remain visible without requiring hover or focus.
 - `prefers-reduced-motion` disables decorative transitions for people who have
   requested reduced motion.
 - Language text uses the `lang` attribute so assistive technologies can use
@@ -595,15 +593,23 @@ another browser, device, or user account.
 ### Add vocabulary to a set
 
 1. Add or edit a record in `data/master_words_list.json`.
-2. Give it a unique `id`, Vietnamese and English strings, and a `tags` array.
+2. Give it a unique `id`, Vietnamese and English strings, a `tags` array, and
+   an `audio` object with `vietnamese` and `english` paths or `null` values.
 3. Add the set's existing `tagId` to `tags` to include the word in that set.
-4. If the CSV is maintained as a matching export, update it as well.
-5. Run `npm test` and `npm run build`.
+4. Run `npm test` and `npm run build`.
+
+### Add a word recording
+
+1. Put the recording in `public/audio/` using the word ID and language in its
+   filename, such as `000001-vietnamese.mp3`.
+2. Set the matching language value in the word's `audio` object to the
+   root-relative path, such as `/audio/000001-vietnamese.mp3`.
+3. Keep the other language value `null` until its recording is available.
 
 ### Add a practice set
 
 1. Add a definition to `data/metadata/sets.json`.
-2. Give it a unique `tagId`, name, difficulty, description, and optional image.
+2. Give it a unique `tagId`, name, difficulty, and description.
 3. Add that tag to each vocabulary record that belongs to the new set.
 4. `createPracticeSets` automatically creates the set from the shared data.
 5. The practice-set browser will display it; no per-set JSX is needed.
@@ -677,7 +683,7 @@ On Windows, `start-local.bat` starts the server bound to the local machine.
 npm test
 ```
 
-This runs the Node.js test files matched by the built-in test runner.
+This runs the Vitest suite, including component tests in jsdom.
 
 ### Production build and preview
 
